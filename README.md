@@ -215,7 +215,10 @@ Email: pabii's@retreatspa.co.za
 
 Location: [INSERT CONFIRMED BUSINESS LOCATION]
 
-Opening Hours: [INSERT CONFIRMED OPENING HOURS]
+Opening Hours: Monday-Friday-9am-6pm
+               Saturday-8am-1pm
+               Sunday-Closed
+               Public Hoildays open upon request
 
 ---
 
