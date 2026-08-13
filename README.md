@@ -213,12 +213,15 @@ Telephone: 061 232 6031
 
 Email: pabii's@retreatspa.co.za
 
-Location: [INSERT CONFIRMED BUSINESS LOCATION]
+Location: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.866757912198!2d27.893125474610905!3d-26.26598747703855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e95a70c239a90e1%3A0x52a8320b9ecf8246!2sMsilinga%20St%2C%20Pimville%2C%201809!5e0!3m2!1sen!2sza!4v1786539828768!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-Opening Hours: Monday-Friday-9am-6pm
-               Saturday-8am-1pm
-               Sunday-Closed
-               Public Hoildays open upon request
+
+
+Opening Hours: Monday- Friday-9am- 6pm
+ 	Saturday-8am- 1pm
+ 	Sundays closed
+ 	Public holidays open upon request
+
 
 ---
 
