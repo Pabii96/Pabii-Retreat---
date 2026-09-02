@@ -8,56 +8,37 @@
 
     <meta name="description"
           content="Pabii's Retreat offers personalised massage, facial and therapeutic wellness treatments.">
-
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
 
     <!-- HEADER -->
     <header>
+        <div class="navbar container">
+            <div class="logo">
+                <img src="images/logo.jpg" alt="Pabii's Retreat Logo" width="120" height="120">
+            </div>
 
-        <div class="logo">
-            <img src="images/logo.jpg" alt="Pabii's Retreat Logo" width="340" height="320">
+            <h1 class="site-title">Pabii's Retreat</h1>
+
+            <input type="checkbox" id="nav-toggle" aria-label="Toggle navigation">
+            <label for="nav-toggle" class="menu-toggle" aria-hidden="true">&#9776;</label>
+
+            <nav class="nav-links">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="packages.html">Packages</a></li>
+                    <li><a href="gallery.html">Gallery</a></li>
+                    <li><a href="enquiry.html">Enquiry</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="reviews.html">Reviews</a></li>
+                </ul>
+            </nav>
         </div>
-
-        <h1>Pabii's Retreat</h1>
-
-        <p>Unwind. Regroup. Reconnect. Renewed.</p>
-
     </header>
-
-
-    <!-- NAVIGATION -->
-    <nav>
-
-        <ul>
-            <li>
-                <a href="index.html">Home</a>
-            </li>
-            <li>
-                <a href="about.html">About Us</a>
-            </li>
-            <li>
-                <a href="services.html">Services</a>
-            </li>
-            <li>
-                <a href="packages.html">Packages</a>
-            </li>
-            <li>
-                <a href="gallery.html">Gallery</a>
-            </li>
-            <li>
-                <a href="enquiry.html">Enquiry</a>
-            </li>
-            <li>
-                <a href="contact.html">Contact Us</a>
-            </li>
-            <li>
-                <a href="reviews.html">Reviews</a>
-            </li>
-        </ul>
-
-    </nav>
 
 
     <!-- HERO SECTION -->
@@ -76,7 +57,7 @@
                     relax your body, calm your mind and reconnect with yourself.
                 </p>
 
-                <a href="enquiry.html">
+                <a href="enquiry.html" class="btn">
                     Book Your Retreat
                 </a>
 
@@ -113,7 +94,7 @@
 
                 <article class="service-card">
 
-                    <img src="images/humbi foot.png"alt="Full body massage" width="300" height="450>
+                    <img src="images/humbi foot.png" alt="Full body massage" width="300" height="450">
 
                     <h3>Full Body Massage</h3>
 
