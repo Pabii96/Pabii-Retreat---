@@ -11,3 +11,9 @@
 Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver therapeutic services (such as hot stone therapy, facial treatments, and massages) aimed at stress relief, physical recovery, and mental relaxation in an affordable and serene environment.
 
 ---
+## Website Goals and Objectives
+- Provide clear information on wellness services and customized packages.
+- Enable potential clients to submit appointment enquiries online.
+- Promote physical and mental well-being within the local community.
+
+---
