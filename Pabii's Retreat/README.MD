@@ -23,3 +23,9 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
 - **Location Mapping:** Information displaying business operating locations.
 
 ---
+## Timeline and Milestones
+- **Phase 1:** Research, Sitemap Planning, and Proposal Submission.
+- **Phase 2:** HTML Structure Implementation and GitHub Version Control.
+- **Phase 3:** CSS Styling, Responsive Design, and Testing.
+
+---
