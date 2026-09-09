@@ -29,3 +29,20 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
 - **Phase 3:** CSS Styling, Responsive Design, and Testing.
 
 ---
+## Part 1 Details
+- Initial Sitemap creation and content research complete.
+- Basic HTML structure set up across main pages.
+- Repository set up and initial files committed.
+
+---
+## Sitemap
+- **Homepage:** `index.html`
+- **About Us:** `about.html`
+- **Services:** `services.html`
+- **Packages:** `packages.html`
+- **Gallery:** `gallery.html`
+- **Enquiry:** `enquiry.html`
+- **Contact Us:** `contact.html`
+- **Reviews:** `reviews.html`
+
+---
