@@ -17,3 +17,9 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
 - Promote physical and mental well-being within the local community.
 
 ---
+## Key Features and Functionality
+- **Multi-page Navigation:** Accessible pages for Home, About Us, Services, Packages, Gallery, Enquiries, Contact, and Reviews.
+- **Interactive Forms:** Dedicated booking enquiry and contact forms.
+- **Location Mapping:** Information displaying business operating locations.
+
+---
