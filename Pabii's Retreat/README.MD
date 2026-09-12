@@ -30,6 +30,17 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
 - **Phase 3:** CSS Styling, Responsive Design, and Testing.
 
 ---
+## Sitemap
+- **Homepage:** `index.html`
+- **About Us:** `about.html`
+- **Services:** `services.html`
+- **Packages:** `packages.html`
+- **Gallery:** `gallery.html`
+- **Enquiry:** `enquiry.html`
+- **Contact Us:** `contact.html`
+- **Reviews:** `reviews.html
+
+---
 ## Part 1 Details
 - Initial Sitemap creation and content research complete.
 - Basic HTML structure set up across main pages.
@@ -42,16 +53,13 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
 * **Layout Techniques:** Flexible layout structures implemented using CSS Grid and Flexbox for multi-column alignment.
 * **Breakpoints & Media Queries:** Customized media queries targeting desktop, tablet, and mobile viewports. 
 
-
-## Sitemap
-- **Homepage:** `index.html`
-- **About Us:** `about.html`
-- **Services:** `services.html`
-- **Packages:** `packages.html`
-- **Gallery:** `gallery.html`
-- **Enquiry:** `enquiry.html`
-- **Contact Us:** `contact.html`
-- **Reviews:** `reviews.html`
+### Responsive Design Evidence
+* **Desktop View:**
+  ![Desktop View](images/fullbody.png)
+* **Tablet View:**
+  ![Tablet View](images/facial.png)
+* **Mobile View:**
+  ![Mobile View](images/hotstone.png)
 
 ---
 
