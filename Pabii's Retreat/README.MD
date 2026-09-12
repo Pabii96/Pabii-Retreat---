@@ -62,9 +62,10 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
   ![Mobile View](images/hotstone.png)
 
 ---
-
-## Changelog
-- **v1.0.0:** Created repository, added initial project proposal, updated sitemap, and added foundational HTML templates.
+### Part 1 Feedback Implementation & Corrections
+* **[Insert Date]:** **HTML File Paths** — Corrected file naming and relative link paths across all navigation menus to ensure seamless page transitions.
+* **[Insert Date]:** **Semantic Markup** — Updated HTML structure to include semantic layout elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`).
+* **[Insert Date]:** **Form Controls** — Added input validation and explicit field labels to both the Enquiry form (`enquiry.html`) and Contact form (`contactus.html`).
 
 ---
 
