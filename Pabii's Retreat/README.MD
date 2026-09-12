@@ -77,6 +77,8 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
 ---
 
 ## References
-- American Massage Therapy Association (AMTA). 2024. *Massage Therapy Research and Consumer Information*. Available at: https://www.amtamassage.org/ [Accessed 25 July 2026].
-- World Health Organization (WHO). 2026. *Self-care for health and well-being*. Available at: WHO Website [Accessed 02 August 2026].
-- Sharpsheets. 2026. *SWOT Analysis for a Massage Therapy Business*. Available at: https://sharpsheets.io/blog/swot-analysis-massage-therapy-business/ [Accessed 25 July 2026].
+* American Massage Therapy Association (AMTA). 2024. *Massage Therapy Research and Consumer Information*. Available at: https://www.amtamassage.org/ (Accessed 25 July 2026).
+* Creative Commons. 2026. *Sharing Openly, Sharing Globally*. Available at: https://creativecommons.org/ (Accessed 02 August 2026).
+* Creative Commons. 2026. *Attribution*. Available at: https://creativecommons.org/licenses/ (Accessed 02 August 2026).
+* Sharpsheets. 2026. *SWOT Analysis for a Massage Therapy Business*. Available at: https://sharpsheets.io/blog/swot-analysis-massage-therapy-business/ (Accessed 25 July 2026).
+* World Health Organization (WHO). 2026. *Self-care for Health and Well-being*. Available at: https://www.who.int/ (Accessed 02 August 2026).
