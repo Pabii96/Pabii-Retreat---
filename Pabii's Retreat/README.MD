@@ -36,6 +36,13 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
 - Repository set up and initial files committed.
 
 ---
+
+## Part 2 Details (CSS & Responsive Design)
+* **External Stylesheet:** Styled using `css/style.css` with baseline typography, custom color palette, and CSS reset rules.
+* **Layout Techniques:** Flexible layout structures implemented using CSS Grid and Flexbox for multi-column alignment.
+* **Breakpoints & Media Queries:** Customized media queries targeting desktop, tablet, and mobile viewports. 
+
+
 ## Sitemap
 - **Homepage:** `index.html`
 - **About Us:** `about.html`
