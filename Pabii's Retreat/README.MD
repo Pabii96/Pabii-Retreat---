@@ -18,11 +18,11 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
 * **Objective 2:** Enable interactive service enquiries, spa package bookings, and direct contact options for potential clients.
 
 ---
-## Key Features and Functionality
-- **Multi-page Navigation:** Accessible pages for Home, About Us, Services, Packages, Gallery, Enquiries, Contact, and Reviews.
-- **Interactive Forms:** Dedicated booking enquiry and contact forms.
-- **Location Mapping:** Information displaying business operating locations.
-
+# Key Features and Functionality
+* **Multi-Page Structure:** Dedicated pages for Home, About Us, Services, Packages, Gallery, Customer Reviews, Enquiries, and Contact Us.
+* **Responsive Layout:** Adaptive desktop, tablet, and mobile layouts built using Flexbox, CSS Grid, and media queries.
+* **Interactive Forms:** Functional enquiry form with deposit/booking policy details and a direct contact form.
+* **CSS Visual Styling:** Modern aesthetic featuring a custom color scheme, typography scales, pseudo-classes (`:hover`, `:focus`, `:active`), and layout structures.
 ---
 ## Timeline and Milestones
 - **Phase 1:** Research, Sitemap Planning, and Proposal Submission.
