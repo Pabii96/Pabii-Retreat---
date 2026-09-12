@@ -12,9 +12,10 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
 
 ---
 ## Website Goals and Objectives
-- Provide clear information on wellness services and customized packages.
-- Enable potential clients to submit appointment enquiries online.
-- Promote physical and mental well-being within the local community.
+* **Goal 1:** Provide affordable, high-quality therapeutic services to motivate clients to prioritize physical and mental wellness.
+* **Goal 2:** Establish an online presence to transition customer reach beyond word-of-mouth and WhatsApp into a professional web solution.
+* **Objective 1:** Build a responsive, user-friendly website featuring intuitive navigation across all main pages.
+* **Objective 2:** Enable interactive service enquiries, spa package bookings, and direct contact options for potential clients.
 
 ---
 ## Key Features and Functionality
