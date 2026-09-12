@@ -67,6 +67,13 @@ Pabii's Retreat is a wellness sanctuary established in July 2026 to deliver ther
 * **[Insert Date]:** **Semantic Markup** — Updated HTML structure to include semantic layout elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`).
 * **[Insert Date]:** **Form Controls** — Added input validation and explicit field labels to both the Enquiry form (`enquiry.html`) and Contact form (`contactus.html`).
 
+### Part 2 Feature Additions (CSS & Responsive Design)
+* **[Insert Date]:** **Stylesheet Integration** — Created external stylesheet `css/style.css` and linked all pages.
+* **[Insert Date]:** **Base Styling & Typography** — Defined typography scaling (`rem`/`em`), baseline margins, paddings, and CSS resets.
+* **[Insert Date]:** **Layout Implementation** — Built multi-column card layouts using Flexbox and CSS Grid for desktop screens.
+* **[Insert Date]:** **Media Queries** — Added responsive breakpoints converting desktop grid layouts into single-column flows for tablet and mobile devices.
+* **[Insert Date]:** **Interactive States** — Added hover and active focus states to buttons, navigation elements, and form inputs.
+
 ---
 
 ## References
