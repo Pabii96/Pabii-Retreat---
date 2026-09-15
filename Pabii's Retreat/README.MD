@@ -14,6 +14,8 @@ Pabii’s Retreat is a wellness and massage website that is designed to provide 
 ### 3.1 Organisation Overview
 Pabii’s Retreat was founded by Paballo in July 2026, was created and dedicated with the vision of helping clients to restore their balance, relieve stress and improve their overall health. It was established to deliver the needs of clients after the recognition that a lot of people suffer from stress, fatigue, muscle tension and the pressure of life. The Retreat will ensure that it offers different range of therapeutic services that will include hot stone therapy, facial treatment, Swedish massage, full body massage and more. 
 
+Main reason of establishing Pabii’s Retreat was to provide affordable, high-quality services to motivate people to prioritise their health, promote their physical and mental wellness in a calm and comfortable environment
+
 ---
 ## Website Goals and Objectives
 * **Goal 1:** Provide affordable, high-quality therapeutic services to motivate clients to prioritize physical and mental wellness.
