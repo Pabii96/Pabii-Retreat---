@@ -98,7 +98,7 @@ Complete the form below to enquire about our services or request a spa appointme
 
 ## Part 2 Details (CSS & Responsive Design)
 * **External Stylesheet:** Styled using `css/style.css` with baseline typography, custom color palette, and CSS reset rules.
-* **Layout Techniques:** Flexible layout structures implemented using CSS Grid and Flexbox for multi-column alignment.
+* **Layout Techniques:** Flexible layout structures implemented using CSS Grid for multi-column alignment.
 * **Breakpoints & Media Queries:** Customized media queries targeting desktop, tablet, and mobile viewports. 
 
 ### Responsive Design Evidence
@@ -118,7 +118,7 @@ Complete the form below to enquire about our services or request a spa appointme
 ### Part 2 Feature Additions (CSS & Responsive Design)
 * **[Insert Date]:** **Stylesheet Integration** — Created external stylesheet `css/style.css` and linked all pages.
 * **[Insert Date]:** **Base Styling & Typography** — Defined typography scaling (`rem`/`em`), baseline margins, paddings, and CSS resets.
-* **[Insert Date]:** **Layout Implementation** — Built multi-column card layouts using Flexbox and CSS Grid for desktop screens.
+* **[Insert Date]:** **Layout Implementation** — Built multi-column card layouts using  CSS Grid for desktop screens.
 * **[Insert Date]:** **Media Queries** — Added responsive breakpoints converting desktop grid layouts into single-column flows for tablet and mobile devices.
 * **[Insert Date]:** **Interactive States** — Added hover and active focus states to buttons, navigation elements, and form inputs.
 
