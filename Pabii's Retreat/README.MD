@@ -102,6 +102,8 @@ As Pabii’s Retreat is a newly formed business it hasn’t yet established soci
 ## Content Research and Sourcing
 
 * **Organization’s Website: ** Pabii’s Retreat was established in July 2026 as a new business, it currently has limited web history as we were using WhatsApp to promote the business to our friends, family and close neighbor's. The proposed website will be established to attract customers and provide them with important information about the Retreat. 
+* **Social Media:** As a newly formed business, social media has been identified as a critical future marketing platform to assist in promoting the business.
+* **Public Domain and Creative Commons Resources:** Pabii’s Retreat will use public domain and creative resources suitable for the organization that display elements such as wellness and nature
 
 ---
 ## Timeline and Milestones
