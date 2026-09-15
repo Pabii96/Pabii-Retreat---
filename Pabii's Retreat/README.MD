@@ -130,6 +130,18 @@ As Pabii’s Retreat is a newly formed business it hasn’t yet established soci
 
 ---
 
+## Future Improvements 
+Future improvements to the website may include:
+* Adding customer reviews and testimonials.
+* Adding social media links.
+* Adding an online booking system.
+* Adding more treatment photographs.
+* Adding more package options.
+* Improving accessibility and mobile responsiveness.
+* Adding an online payment option.
+* Updating services and prices when required.
+
+---
 ## Part 2 Details (CSS & Responsive Design)
 * **External Stylesheet:** Styled using `css/style.css` with baseline typography, custom color palette, and CSS reset rules.
 * **Layout Techniques:** Flexible layout structures implemented using CSS Grid for multi-column alignment.
