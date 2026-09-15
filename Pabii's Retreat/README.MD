@@ -43,8 +43,6 @@ The provided structure helps customers find suitable treatments, be able to have
 * **CSS Visual Styling:** Modern aesthetic featuring a custom color scheme, typography scales, pseudo-classes (`:hover`, `:focus`, `:active`), and layout structures.
 ---
 
----
-
 ## PABII’S RETREAT PAGES
 
 ### 1. Homepage - `index.html`
