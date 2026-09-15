@@ -170,6 +170,23 @@ Future improvements to the website may include:
 
 ---
 
+Changelog - Pabii's Retreat Project
+
+10 July 2026 - Project Initialization & Proposal
+- Established Pabii’s Massage Parlour (Retreat) as a new wellness business launched in July 2026.
+- Created initial project documentation and defined core organization objectives focused on affordable therapeutic services, stress relief, and physical/mental wellness.
+
+15 July 2026 - Sitemap & Page Architecture Setup
+- Developed the complete website sitemap structure mapping out 8 core pages: Homepage (index.html), About Us (about.html), Services (services.html), Packages (packages.html), Gallery (gallery.html), Customer Reviews (reviews.html), Enquiries (enquiry.html), and Contact Us (contact.html).
+- Added business contact details, operating hours, booking policies (30% non-refundable deposit), and location information.
+
+02 August 2026 - Feature Additions & Future Improvements 
+- Added dedicated placeholder sections for customer reviews noting that reviews are currently growing as initial family and friends experience treatments.
+- Formally integrated social media planning into the document to outline future engagement, service showcases, and client attraction strategies.
+- Added a comprehensive "Future Improvements" roadmap detailing plans for online booking systems, secure payment options, mobile accessibility enhancements, and expanded package offerings.
+
+---
+
 ## References
 * American Massage Therapy Association (AMTA). 2024. *Massage Therapy Research and Consumer Information*. Available at: https://www.amtamassage.org/ (Accessed 25 July 2026).
 * Creative Commons. 2026. *Sharing Openly, Sharing Globally*. Available at: https://creativecommons.org/ (Accessed 02 August 2026).
