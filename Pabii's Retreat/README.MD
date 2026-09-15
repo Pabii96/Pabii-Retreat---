@@ -54,6 +54,13 @@ The provided structure helps customers find suitable treatments, be able to have
 Pabii’s Retreat is a customised spa and therapeutic treatment that provides its clients a personalised wellness experience that is designed to remove them from everyday life and promotes relaxation and improving long lasting wellness.
 
 * **Mission:** We aim to provide exceptional and personalised therapy that calms the mind, relax the body, lift the spirit and mostly create a lasting sense of well-being to our clients.
+* **Vision:** Our aim is to become a respected, leading and reputable wellness centre of excellence by providing high-quality relaxation and therapeutic services.
+
+### 3. Services / Packages - `services.html`
+**Packages include:**
+* **Package A:** Welcome juice, 45 mins Full Body Massage, Lunch and coffee/juice — all this luxury for **R600**.
+* **Package B:** Welcome juice, Facial Treatment, 30 mins Full Body Massage, 15 mins backstone therapy, 15 mins facial treatment — all for **R350**.
+* **NB:** Additional services to offer.
 
 ---
 ## Timeline and Milestones
