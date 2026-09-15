@@ -94,9 +94,15 @@ Complete the form below to enquire about our services or request a spa appointme
 ### 8. Customer Reviews - `reviews.html`
 As Pabii’s Retreat is a new business that started operating in July, it doesn’t currently have existing customer reviews yet as we are still promoting the business using family and friends.
 
-
 ### 9. Social Media
 As Pabii’s Retreat is a newly formed business it hasn’t yet established social media channels since it was launched in July 2026. Social media has been spoken about as an important marketing platform. This platform will assist in promoting Pabii’s Retreat, showcase our services and packages, share wellness content, engage with customers, and attract new clients.
+
+---
+
+## Content Research and Sourcing
+
+* **Organization’s Website: ** Pabii’s Retreat was established in July 2026 as a new business, it currently has limited web history as we were using WhatsApp to promote the business to our friends, family and close neighbor's. The proposed website will be established to attract customers and provide them with important information about the Retreat. 
+
 ---
 ## Timeline and Milestones
 - **Phase 1:** Research, Sitemap Planning, and Proposal Submission.
