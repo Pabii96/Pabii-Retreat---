@@ -8,7 +8,7 @@
 ---
 
 ##Project Description
-
+Pabii’s Retreat is a wellness and massage website that is designed to provide customers/clients useful information about the business, available services we offer, packages we have, gallery, customer review, enquiries, and contact details.
 
 ---
 ## Website Goals and Objectives
