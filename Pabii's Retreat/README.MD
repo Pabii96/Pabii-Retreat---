@@ -50,14 +50,14 @@ The provided structure helps customers find suitable treatments, be able to have
 ### 1. Homepage - `index.html`
 * **Welcome to Pabii’s Retreat**
 * *Unwind. Regroup. Reconnect. Renewed.*
-* Our retreat spa offers personalized treatment and therapeutic treatment for its customers to be able to unwind, calm their minds, relax their bodies, be flexible and mostly have a healthy lifestyle[cite: 3].
+* Our retreat spa offers personalized treatment and therapeutic treatment for its customers to be able to unwind, calm their minds, relax their bodies, be flexible and mostly have a healthy lifestyle.
 
 ### 2. About Us - `about.html`
-Pabii’s Retreat is a customised spa and therapeutic treatment that provides its clients a personalised wellness experience that is designed to remove them from everyday life and promotes relaxation and improving long lasting wellness[cite: 3].
+Pabii’s Retreat is a customised spa and therapeutic treatment that provides its clients a personalised wellness experience that is designed to remove them from everyday life and promotes relaxation and improving long lasting wellness.
+
+* **Mission:** We aim to provide exceptional and personalised therapy that calms the mind, relax the body, lift the spirit and mostly create a lasting sense of well-being to our clients.
 
 ---
-
-* **Mission:** We aim to provide exceptional and personalised therapy that calms the mind, relax the body, lift the spirit and mostly create a lasting sense of well-being to our clients[cite: 3].
 ## Timeline and Milestones
 - **Phase 1:** Research, Sitemap Planning, and Proposal Submission.
 - **Phase 2:** HTML Structure Implementation and GitHub Version Control.
