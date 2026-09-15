@@ -75,6 +75,11 @@ Complete the form below to enquire about our services or request a spa appointme
   * Required non-refundable deposit of 30% to confirm your appointment.
   * Late fee required after 30 minutes grace period.
 
+**Enquiry form fields:**
+* **Personal information:** Full Name, Email Address, Phone Number.
+* **Appointment information:** Preferred Date, Preferred Time, Preferred Treatment, Number of People.
+* **Additional requirements:** Special requests, Questions, Preferred therapist (if applicable).
+
 ---
 ## Timeline and Milestones
 - **Phase 1:** Research, Sitemap Planning, and Proposal Submission.
