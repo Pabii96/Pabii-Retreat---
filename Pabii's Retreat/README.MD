@@ -7,7 +7,7 @@
 - **Group:** Group One
 ---
 
-###Project Description
+## Project Description
 
 Pabii’s Retreat is a wellness and massage website that is designed to provide customers/clients useful information about the business, available services we offer, packages we have, gallery, customer review, enquiries, and contact details.
 
@@ -61,6 +61,9 @@ Pabii’s Retreat is a customised spa and therapeutic treatment that provides it
 * **Package A:** Welcome juice, 45 mins Full Body Massage, Lunch and coffee/juice — all this luxury for **R600**.
 * **Package B:** Welcome juice, Facial Treatment, 30 mins Full Body Massage, 15 mins backstone therapy, 15 mins facial treatment — all for **R350**.
 * **NB:** Additional services to offer.
+
+### 6. Enquiry - `enquiry.html`
+Complete the form below to enquire about our services or request a spa appointment. Our team will respond with availability and further information.
 
 ---
 ## Timeline and Milestones
