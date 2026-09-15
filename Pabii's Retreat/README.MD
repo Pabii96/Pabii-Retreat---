@@ -29,11 +29,10 @@ Main reason of establishing Pabii’s Retreat was to provide affordable, high-qu
 * Contact Us
 
 ---
- ## Website Structure and Planning
 
 ### 4.1 Sitemap - Pabii’s Retreat
 The sitemap provides visitors with access to information about the organization, wellness services, the packages, gallery, enquiries, customer reviews and contact information.
-
+The provided structure helps customers find suitable treatments, be able to have a refreshing environment and make enquiries or spa bookings efficiently.
 ---
 # Key Features and Functionality
 * **Multi-Page Structure:** Dedicated pages for Home, About Us, Services, Packages, Gallery, Customer Reviews, Enquiries, and Contact Us.
