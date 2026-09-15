@@ -86,6 +86,17 @@ Complete the form below to enquire about our services or request a spa appointme
 - **Phase 2:** HTML Structure Implementation and GitHub Version Control.
 - **Phase 3:** CSS Styling, Responsive Design, and Testing.
 
+### 7. Contact Us – `contact.html`
+* **Phone:** 061 232 6031.
+* **Email:** pabii’s@retreatspa.co.za.
+* **Address:** 195/11907 Msilinga Street, Pimville Zone 9, 1809.
+* **Business hours:** 
+  * Monday – Friday: 9am – 6pm.
+  * Saturday: 8am – 1pm.
+  * Sundays: Closed.
+  * Public holidays: Open upon request.
+* **Contact form fields:** Full Name, Email, Phone, Subject, Message, Submit button.
+
 ---
 ## Sitemap
 - **Homepage:** `index.html`
