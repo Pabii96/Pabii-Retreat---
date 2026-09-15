@@ -65,6 +65,9 @@ Pabii’s Retreat is a customised spa and therapeutic treatment that provides it
 ### 4. Package Details - `packages.html`
 *(Reference to promotional Canva layout image showing Package 1, Package 2, and pricing details)*.
 
+### 5. Gallery - `gallery.html`
+Visual media displaying spa rooms, treatment procedures, and relaxing environments.
+
 ### 6. Enquiry - `enquiry.html`
 Complete the form below to enquire about our services or request a spa appointment. Our team will respond with availability and further information.
 
