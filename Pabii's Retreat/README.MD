@@ -80,12 +80,6 @@ Complete the form below to enquire about our services or request a spa appointme
 * **Appointment information:** Preferred Date, Preferred Time, Preferred Treatment, Number of People.
 * **Additional requirements:** Special requests, Questions, Preferred therapist (if applicable).
 
----
-## Timeline and Milestones
-- **Phase 1:** Research, Sitemap Planning, and Proposal Submission.
-- **Phase 2:** HTML Structure Implementation and GitHub Version Control.
-- **Phase 3:** CSS Styling, Responsive Design, and Testing.
-
 ### 7. Contact Us – `contact.html`
 * **Phone:** 061 232 6031.
 * **Email:** pabii’s@retreatspa.co.za.
@@ -96,6 +90,12 @@ Complete the form below to enquire about our services or request a spa appointme
   * Sundays: Closed.
   * Public holidays: Open upon request.
 * **Contact form fields:** Full Name, Email, Phone, Subject, Message, Submit button.
+
+---
+## Timeline and Milestones
+- **Phase 1:** Research, Sitemap Planning, and Proposal Submission.
+- **Phase 2:** HTML Structure Implementation and GitHub Version Control.
+- **Phase 3:** CSS Styling, Responsive Design, and Testing.
 
 ---
 ## Sitemap
