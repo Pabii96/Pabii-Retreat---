@@ -38,7 +38,7 @@ The provided structure helps customers find suitable treatments, be able to have
 ---
 # Key Features and Functionality
 * **Multi-Page Structure:** Dedicated pages for Home, About Us, Services, Packages, Gallery, Customer Reviews, Enquiries, and Contact Us.
-* **Responsive Layout:** Adaptive desktop, tablet, and mobile layouts built using Flexbox, CSS Grid, and media queries.
+* **Responsive Layout:** Adaptive desktop, tablet, and mobile layouts built using CSS Grid, and media queries.
 * **Interactive Forms:** Functional enquiry form with deposit/booking policy details and a direct contact form.
 * **CSS Visual Styling:** Modern aesthetic featuring a custom color scheme, typography scales, pseudo-classes (`:hover`, `:focus`, `:active`), and layout structures.
 ---
