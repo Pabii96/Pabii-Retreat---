@@ -115,7 +115,7 @@ Complete the form below to enquire about our services or request a spa appointme
 
 ---
 ### Part 1 Feedback Implementation & Corrections
-* **[Insert Date]:** **HTML File Paths** — Corrected file naming and relative link paths across all navigation menus to ensure seamless page transitions.
+* **[09 September 2026]:** **HTML File Paths** — Corrected file naming and relative link paths across all navigation menus to ensure seamless page transitions.
 * **[Insert Date]:** **Semantic Markup** — Updated HTML structure to include semantic layout elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`).
 * **[Insert Date]:** **Form Controls** — Added input validation and explicit field labels to both the Enquiry form (`enquiry.html`) and Contact form (`contactus.html`).
 
