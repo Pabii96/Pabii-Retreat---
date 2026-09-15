@@ -71,6 +71,10 @@ Visual media displaying spa rooms, treatment procedures, and relaxing environmen
 ### 6. Enquiry - `enquiry.html`
 Complete the form below to enquire about our services or request a spa appointment. Our team will respond with availability and further information.
 
+* **Booking Policies:** 
+  * Required non-refundable deposit of 30% to confirm your appointment.
+  * Late fee required after 30 minutes grace period.
+
 ---
 ## Timeline and Milestones
 - **Phase 1:** Research, Sitemap Planning, and Proposal Submission.
