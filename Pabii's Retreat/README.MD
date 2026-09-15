@@ -62,6 +62,9 @@ Pabii’s Retreat is a customised spa and therapeutic treatment that provides it
 * **Package B:** Welcome juice, Facial Treatment, 30 mins Full Body Massage, 15 mins backstone therapy, 15 mins facial treatment — all for **R350**.
 * **NB:** Additional services to offer.
 
+### 4. Package Details - `packages.html`
+*(Reference to promotional Canva layout image showing Package 1, Package 2, and pricing details)*.
+
 ### 6. Enquiry - `enquiry.html`
 Complete the form below to enquire about our services or request a spa appointment. Our team will respond with availability and further information.
 
