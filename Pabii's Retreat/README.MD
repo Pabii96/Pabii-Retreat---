@@ -101,7 +101,7 @@ As Pabii’s Retreat is a newly formed business it hasn’t yet established soci
 
 ## Content Research and Sourcing
 
-* **Organization’s Website: ** Pabii’s Retreat was established in July 2026 as a new business, it currently has limited web history as we were using WhatsApp to promote the business to our friends, family and close neighbor's. The proposed website will be established to attract customers and provide them with important information about the Retreat. 
+* **Organization’s Website:** Pabii’s Retreat was established in July 2026 as a new business, it currently has limited web history as we were using WhatsApp to promote the business to our friends, family and close neighbor's. The proposed website will be established to attract customers and provide them with important information about the Retreat. 
 * **Social Media:** As a newly formed business, social media has been identified as a critical future marketing platform to assist in promoting the business.
 * **Public Domain and Creative Commons Resources:** Pabii’s Retreat will use public domain and creative resources suitable for the organization that display elements such as wellness and nature
 
@@ -142,10 +142,10 @@ Future improvements to the website may include:
 * Updating services and prices when required.
 
 ---
-## Part 2 Details (CSS & Responsive Design)
+## Part 2 Details (CSS and Responsive Design)
 * **External Stylesheet:** Styled using `css/style.css` with baseline typography, custom color palette, and CSS reset rules.
 * **Layout Techniques:** Flexible layout structures implemented using CSS Grid for multi-column alignment.
-* **Breakpoints & Media Queries:** Customized media queries targeting desktop, tablet, and mobile viewports. 
+* **Breakpoints and Media Queries:** Customized media queries targeting desktop, tablet, and mobile viewports. 
 
 ### Responsive Design Evidence
 * **Desktop View:**
@@ -156,14 +156,14 @@ Future improvements to the website may include:
   ![Mobile View](images/hotstone.png)
 
 ---
-### Part 1 Feedback Implementation & Corrections
+### Part 1 Feedback Implementation and Corrections
 * **[09 September 2026]:** **HTML File Paths** — Corrected file naming and relative link paths across all navigation menus to ensure seamless page transitions.
 * **[Insert Date]:** **Semantic Markup** — Updated HTML structure to include semantic layout elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`).
 * **[Insert Date]:** **Form Controls** — Added appropriate field for both the enquiry form and contact us.
 
-### Part 2 Feature Additions (CSS & Responsive Design)
+### Part 2 Feature Additions (CSS and Responsive Design)
 * **[Insert Date]:** **Stylesheet Integration** — Created external stylesheet `css/style.css` and linked all pages.
-* **[Insert Date]:** **Base Styling & Typography** — Defined typography scaling (`rem`/`em`), baseline margins, paddings, and CSS resets.
+* **[Insert Date]:** **Base Styling and Typography** — Defined typography scaling (`rem`/`em`), baseline margins, paddings, and CSS resets.
 * **[Insert Date]:** **Layout Implementation** — Built multi-column card layouts using  CSS Grid for desktop screens.
 * **[Insert Date]:** **Media Queries** — Added responsive breakpoints converting desktop grid layouts into single-column flows for tablet and mobile devices.
 * **[Insert Date]:** **Interactive States** — Added hover and active focus states to buttons, navigation elements, and form inputs.
@@ -172,12 +172,12 @@ Future improvements to the website may include:
 
 Changelog - Pabii's Retreat Project
 
-10 July 2026 - Project Initialization & Proposal
-- Established Pabii’s Massage Parlour (Retreat) as a new wellness business launched in July 2026.
+10 July 2026 - Project Initialization and Proposal
+- Established Pabii’s Retreat as a new wellness business launched in July 2026.
 - Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing.
 
-02 August 2026 - New Additions & Feature Updates 
--Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatment.
+02 August 2026 - New Additions and Feature Updates 
+ -Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatment.
 - Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients.
 -Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancement, and expanded package.
 
