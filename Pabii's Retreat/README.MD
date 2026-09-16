@@ -177,7 +177,7 @@ Changelog - Pabii's Retreat Project
 - Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing.
 
 02 August 2026 - New Additions and Feature Updates 
- -Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatment.
+-Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatment.
 - Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients.
 -Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancement, and expanded package.
 
