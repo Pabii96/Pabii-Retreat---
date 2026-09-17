@@ -132,13 +132,13 @@ As Pabii’s Retreat is a newly formed business it hasn’t yet established soci
 
 ## Future Improvements 
 Future improvements to the website may include:
-* Adding customer reviews and testimonials.
+* Implementing customer reviews and testimonials pages.
 * Adding social media links.
-* Adding an online booking system.
-* Adding more treatment photographs.
-* Adding more package options.
+* Improving by implementing an online booking system.
+* Showcase more treatment photographs.
+* Having more package options.
 * Improving accessibility and mobile responsiveness.
-* Adding an online payment option.
+* Introducting an online payment option.
 * Updating services and prices when required.
 
 ---
