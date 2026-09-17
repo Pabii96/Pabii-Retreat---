@@ -154,7 +154,7 @@ Future improvements to the website may include:
 
 * **Tablet View:**
   ![Tablet View](images/facial.png)
-  ![Tablet View 2](images/tablet view.png)
+  ![image alt](https://github.com/Pabii96/Pabii-Retreat---/blob/5f2e5522ad8469da15051694eea7251c49951cad/Pabii's%20Retreat/images/tablet%20view.png). 
 
 * **Mobile View:**
   ![Mobile View](images/hotstone.png)
