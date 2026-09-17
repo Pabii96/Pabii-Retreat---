@@ -16,3 +16,15 @@ Completed initial sitemap structure and content sourcing for core HTML pages.
 Gathered public domain assets and drafted treatment package descriptions. 
 
 02 August 2026 - Part 1 Deliverables & Feature Additions
+
+
+Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatments. 
+
+Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients. 
+
+Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancements, and expanded package. 
+
+09 September 2026 - Feedback Corrections & HTML Refinement 
+
+
+
