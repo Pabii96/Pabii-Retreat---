@@ -150,6 +150,7 @@ Future improvements to the website may include:
 ### Responsive Design Evidence
 * **Desktop View:**
   ![Desktop View](images/fullbodymas.png)
+ ![image alt](https://github.com/Pabii96/Pabii-Retreat---/blob/d58f0812112f34b7d9e5023977087d7d097584e0/Pabii's%20Retreat/images/Desktop%20view.png)
 
 
 * **Tablet View:**
@@ -158,6 +159,8 @@ Future improvements to the website may include:
 
 * **Mobile View:**
   ![Mobile View](images/hotstone.png)
+ ![image alt](https://github.com/Pabii96/Pabii-Retreat---/blob/d58f0812112f34b7d9e5023977087d7d097584e0/Pabii's%20Retreat/images/samsung%20view.png)
+
 
 ---
 ### Part 1 Feedback Implementation and Corrections
