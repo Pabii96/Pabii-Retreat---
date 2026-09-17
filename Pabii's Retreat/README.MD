@@ -149,7 +149,7 @@ Future improvements to the website may include:
 
 ### Responsive Design Evidence
 * **Desktop View:**
-  ![Desktop View](images/fullbody.png)
+  ![Desktop View](images/fullbodymas.png)
 * **Tablet View:**
   ![Tablet View](images/facial.png)
 * **Mobile View:**
