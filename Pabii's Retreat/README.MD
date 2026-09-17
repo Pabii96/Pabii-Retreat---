@@ -158,15 +158,15 @@ Future improvements to the website may include:
 ---
 ### Part 1 Feedback Implementation and Corrections
 * **[09 September 2026]:** **HTML File Paths** — Corrected file naming and relative link paths across all navigation menus to ensure seamless page transitions.
-* **[Insert Date]:** **Semantic Markup** — Updated HTML structure to include semantic layout elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`).
-* **[Insert Date]:** **Form Controls** — Added appropriate field for both the enquiry form and contact us.
+* **[11 September 2026]:** **Semantic Markup** — Updated HTML structure to include semantic layout elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`).
+* **[12 September 2026]:** **Form Controls** — Added appropriate field for both the enquiry form and contact us.
 
 ### Part 2 Feature Additions (CSS and Responsive Design)
-* **[Insert Date]:** **Stylesheet Integration** — Created external stylesheet `css/style.css` and linked all pages.
-* **[Insert Date]:** **Base Styling and Typography** — Defined typography scaling (`rem`/`em`), baseline margins, paddings, and CSS resets.
-* **[Insert Date]:** **Layout Implementation** — Built multi-column card layouts using  CSS Grid for desktop screens.
-* **[Insert Date]:** **Media Queries** — Added responsive breakpoints converting desktop grid layouts into single-column flows for tablet and mobile devices.
-* **[Insert Date]:** **Interactive States** — Added hover and active focus states to buttons, navigation elements, and form inputs.
+* **[14 September 2026]:** **Stylesheet Integration** — Created external stylesheet `css/style.css` and linked all pages.
+* **[14 September 2026]:** **Base Styling and Typography** — Defined typography scaling (`rem`/`em`), baseline margins, paddings, and CSS resets.
+* **[15 September 2026]:** **Layout Implementation** — Built multi-column card layouts using  CSS Grid for desktop screens.
+* **[16 September 2026]:** **Media Queries** — Added responsive breakpoints converting desktop grid layouts into single-column flows for tablet and mobile devices.
+* **[16 September 2026]:** **Interactive States** — Added hover and active focus states to buttons, navigation elements, and form inputs.
 
 ---
 
