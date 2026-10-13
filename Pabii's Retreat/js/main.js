@@ -21,3 +21,13 @@ if (!panel) {
     if (!unique.length) { const p=document.createElement('p'); p.textContent='No matching content was found on this page. Try another search term or use the navigation menu.'; panel.append(p); }
     else { const ul=document.createElement('ul'); unique.forEach(el=>{ const li=document.createElement('li'); const a=document.createElement('a'); a.href = el.closest('a')?.href || '#'; a.textContent=el.textContent.trim().slice(0,180); if(a.href.endsWith('#')) a.addEventListener('click',e=>e.preventDefault()); li.append(a); ul.append(li); }); panel.append(ul); }
     panel.scrollIntoView({behavior:'smooth',block:'start'});
+    }));
+  // Accessible gallery lightbox.
+  const galleryImages = [...document.querySelectorAll('main img')].filter(img => /gallery/i.test(location.pathname) || img.closest('.gallery-grid, .gallery, .image-gallery'));
+  if (galleryImages.length) {
+    const overlay = document.createElement('div'); overlay.className='lightbox'; overlay.hidden=true;
+    overlay.setAttribute('role','dialog'); overlay.setAttribute('aria-modal','true'); overlay.setAttribute('aria-label','Expanded gallery image');
+    overlay.innerHTML='<button type="button" class="lightbox-close" aria-label="Close expanded image">&times;</button><button type="button" class="lightbox-prev" aria-label="Previous image">&#10094;</button><figure><img alt=""><figcaption></figcaption></figure><button type="button" class="lightbox-next" aria-label="Next image">&#10095;</button>';
+    document.body.append(overlay);
+    const big=overlay.querySelector('img'), caption=overlay.querySelector('figcaption');
+    let index=0;
