@@ -31,3 +31,11 @@ if (!panel) {
     document.body.append(overlay);
     const big=overlay.querySelector('img'), caption=overlay.querySelector('figcaption');
     let index=0;
+ const show=i=>{index=(i+galleryImages.length)%galleryImages.length; const im=galleryImages[index]; big.src=im.currentSrc||im.src; big.alt=im.alt||'Pabii Retreat gallery image'; caption.textContent=im.alt||`Gallery image ${index+1}`; overlay.hidden=false; overlay.querySelector('.lightbox-close').focus();};
+    galleryImages.forEach((img,i)=>{img.classList.add('gallery-zoomable'); img.tabIndex=0; img.setAttribute('role','button'); img.setAttribute('aria-label',`View larger image: ${img.alt||'gallery image'}`); img.addEventListener('click',()=>show(i)); img.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();show(i);}});});
+    const close=()=>{overlay.hidden=true; galleryImages[index]?.focus();};
+    overlay.querySelector('.lightbox-close').addEventListener('click',close);
+    overlay.querySelector('.lightbox-prev').addEventListener('click',()=>show(index-1));
+    overlay.querySelector('.lightbox-next').addEventListener('click',()=>show(index+1));
+    overlay.addEventListener('click',e=>{if(e.target===overlay)close();});
+    document.addEventListener('keydown',e=>{if(overlay.hidden)return;if(e.key==='Escape')close();if(e.key==='ArrowLeft')show(index-1);if(e.key==='ArrowRight')show(index+1);});
