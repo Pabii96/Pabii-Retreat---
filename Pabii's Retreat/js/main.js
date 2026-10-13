@@ -39,3 +39,21 @@ if (!panel) {
     overlay.querySelector('.lightbox-next').addEventListener('click',()=>show(index+1));
     overlay.addEventListener('click',e=>{if(e.target===overlay)close();});
     document.addEventListener('keydown',e=>{if(overlay.hidden)return;if(e.key==='Escape')close();if(e.key==='ArrowLeft')show(index-1);if(e.key==='ArrowRight')show(index+1);});
+}
+  // Front-end validation/demo feedback. This does not transmit or store form submissions.
+  document.querySelectorAll('form').forEach(form=>{
+    form.querySelectorAll('input[type="email"]').forEach(input=>input.setAttribute('autocomplete','email'));
+    form.querySelectorAll('input[type="tel"]').forEach(input=>input.setAttribute('autocomplete','tel'));
+    const date=form.querySelector('input[type="date"]'); if(date) date.min=new Date().toISOString().slice(0,10);
+    form.addEventListener('submit', event=>{
+      if(!form.checkValidity()){event.preventDefault();form.reportValidity();return;}
+      if(form.getAttribute('action')==='#' || !form.getAttribute('action')) {
+        event.preventDefault();
+        let msg=form.querySelector('.form-feedback');
+        if(!msg){msg=document.createElement('p');msg.className='form-feedback';msg.setAttribute('role','status');msg.setAttribute('aria-live','polite');form.append(msg);}
+        msg.textContent='Thank you. Your details passed the form checks. This demonstration website does not send messages yet; please contact the retreat directly to confirm your enquiry.';
+        msg.scrollIntoView({behavior:'smooth',block:'nearest'});
+      }
+        });
+  });
+});
