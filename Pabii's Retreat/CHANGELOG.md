@@ -77,3 +77,22 @@ about.html - About us
 Search bar added to header; scripts linked.
 
 Facial treatment image opens in the lightbox; "What We Offer" cards laid out in a grid.
+
+services.html - Services
+
+Search bar added to header; scripts linked.
+
+Fixed 6 broken links:  enquires.html → enquiry.html (4 "Enquire Now" buttons plus 2 further links).
+
+Corrected alt text on the facial image (was "Hot stone therapy").
+
+All four service images open in the lightbox; cards laid out in a two-column grid.
+
+22 October 2026 - packages.html - Packages
+
+Replaced the duplicated, nested <header> and unstyled link list with the standard site header and navigation, so the search bar and mobile menu now work on this page.
+
+Fixed broken links: enquires.html → enquiry.html.
+
+Scripts linked.
+
