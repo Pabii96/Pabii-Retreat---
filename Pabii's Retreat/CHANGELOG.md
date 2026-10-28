@@ -120,6 +120,15 @@ Form marked data-form="enquiry". JavaScript validates required fields, email, So
 
 On a valid submit the page shows an estimated cost and availability message without reloading (including a Sunday-cloased notice).
 
+contact.html – Contact Us
 
+Search bar added; scripts linked.
+
+Form marked data-form="contact"; same validation as above. On a valid submit the message is compiled into an email to the Retreat's address.
+
+Fixed broken HTML comment (<-- … -->).
+
+Map section now shows two locations: the Retreat (existing embed) and the nearby Maponya Mall,
+each with an accessible title
 
 
