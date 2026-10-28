@@ -98,7 +98,7 @@ header {
 .navbar {
     max-width: 1200px;
     margin: auto;
-    padding: 15px 30px;
+    padding: 15px 20px;
 
     display: flex;
     justify-content: space-between;
@@ -182,13 +182,13 @@ header {
             rgba(232, 213, 196, 0.82)
         );
 
-    padding: 80px 30px;
+    padding: 60px 20px;
 }
 
 .hero-content {
-    max-width: 1200px;
+    max-width: 1050px;
     width: 100%;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .hero h1 {
@@ -219,12 +219,14 @@ header {
    ========================================================= */
 
 section {
-    padding: 80px 30px;
+    padding: 60px 20px;
 }
 
 .container {
-    max-width: 1200px;
-    margin: auto;
+   width: 100px;
+    max-width: 1050px;
+    margin-left: auto;
+   margin-right: auto;
 }
 
 .section-title {
@@ -672,7 +674,7 @@ footer a:hover {
 @media (max-width: 650px) {
 
     section {
-        padding: 60px 20px;
+        padding: 40px 15px;
     }
 
     .navbar {
