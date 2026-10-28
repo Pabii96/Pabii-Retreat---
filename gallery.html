@@ -24,8 +24,6 @@
     <header>
         <div class="navbar container">
             <div class="logo">
-                    <link rel="stylesheet" href="css/style.css">
-
                 <img src="images/logo.jpg" alt="Pabii's Retreat Logo" width="120" height="120">
             </div>
 
@@ -46,6 +44,16 @@
                     <li><a href="reviews.html">Reviews</a></li>
                 </ul>
             </nav>
+
+            <!-- SITE-WIDE SEARCH -->
+            <div class="site-search" role="search">
+                <form action="#" aria-label="Search the website">
+                    <label for="site-search-input" class="sr-only">Search Pabii's Retreat</label>
+                    <input type="search" id="site-search-input" placeholder="Search the site…" autocomplete="off" aria-controls="site-search-results">
+                    <button type="submit" aria-label="Search">Search</button>
+                </form>
+                <div class="search-results" id="site-search-results" aria-live="polite" hidden></div>
+            </div>
         </div>
     </header>
 
@@ -90,8 +98,7 @@
                 <!-- IMAGE 1 -->
 
                 <div class="gallery-item">
-                            <H3>Full Body Message</H3>
-                     <img src="images/fullbodymas.png" alt="Facial treatment at Pabii's Retreat">
+                     <img src="images/fullbodymas.png" alt="Full body massage at Pabii's Retreat">
 
                     <h3>Full Body Massage</h3>
 
@@ -106,7 +113,6 @@
                 <!-- IMAGE 2 -->
 
                 <div class="gallery-item">
-                        <h3> Foot Message</h3>
                     <img src="images/footmassage.png"
                          alt="Foot massage at Pabii's Retreat">
 
@@ -123,7 +129,6 @@
                 <!-- IMAGE 3 -->
 
                 <div class="gallery-item">
-                        <h3> Facials </h3>
                     <img src="images/facial.png" alt="Facial treatment at Pabii's Retreat">
 
                     <h3>Facial Treatment</h3>
@@ -151,7 +156,6 @@
                     <!-- IMAGE 5 -->
 
                 <div class="gallery-item">
-                    <h3> Pool Lunch </h3>
                     <img src="images/pool lunch.jpeg" alt="Pool lunch at Pabii's Retreat" width="300" height="300">
 
                     <h3>Pool Lunch</h3>
@@ -166,8 +170,9 @@
             <!-- IMAGE 6 -->
 
             <div class="gallery-item">
-                     <h3> Pool Pic</h3>
-                <img src="images/poolpic.png" alt="Pool Pic at Pabi's Retreat"> 
+                <img src="images/poolpic.png" alt="Pool Pic at Pabii's Retreat">
+
+                <h3>Pool Pic</h3>
 
              
                 <p>
@@ -180,15 +185,18 @@
             <!-- IMAGE 7 -->
 
             <div class="gallery-item">
-                     <h3> Bed Area </h3>
-                <img src="images/bed.png" alt="Bed Area at Pabi's Retreat"> 
+                <img src="images/bed.png" alt="Bed Area at Pabii's Retreat">
+
+                <h3>Bed Area</h3>
 
              
                 <p>
-                    A set up that makes you have a lunch and relax inside a pool.
+                    A calm treatment room with comfortable massage beds.
                 </p>
 
             </div>
+
+            </div><!-- end gallery-grid -->
 
         </section>
 
@@ -248,6 +256,11 @@
 
     </footer>
 
+
+
+    <!-- Search index + site scripts (search, lightbox, form validation) -->
+    <script src="js/search-index.js"></script>
+    <script src="js/main.js"></script>
 
 </body>
 
