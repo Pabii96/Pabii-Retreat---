@@ -48,7 +48,7 @@ Defined a responsive breakpoint for different screen size.
 
 Part 3 Changelog Pabii's Retreat
 
-1.Changes applied to every page
+21 October 2026 - Changes applied to every page
 
 Site-wide search bar added to the header (all 8 pages) with a screen-reader label and live results
 area.
@@ -61,3 +61,19 @@ Lightbox applied automatically to every image inside <main> (the logo in the hea
 
 Layout fixes: horizontal navigation bar on desktop, card/grid styles, buttons, form styling, responsive
 breakpoints at 900px and 650px.
+
+21 October 2026- Page by page
+
+Index.html- Home
+
+Search bar added to header; scripts linked.
+
+Hero image, service cards' "why choose us" blocks and buttons now styled and centred (CSS only).
+
+Service images open in the lightbox.
+
+about.html - About us
+
+Search bar added to header; scripts linked.
+
+Facial treatment image opens in the lightbox; "What We Offer" cards laid out in a grid.
