@@ -96,3 +96,20 @@ Fixed broken links: enquires.html → enquiry.html.
 
 Scripts linked.
 
+gallery.html – Gallery
+
+Search bar added; scripts linked.
+
+Removed stray <link rel="stylesheet"> placed inside the logo container.
+
+Added the missing closing </div> for gallery-grid.
+
+Removed duplicated headings and typos ("Full Body Message", "Foot Message", "Facials", "Pool Lunch", "Pool Pic", "Bed Area" appeared twice or above the image).
+
+Corrected alt text: full body massage image (was "Facial treatment"); "Pabi's" → "Pabii's" on Pool Pic and Bed Area.
+
+Added missing headings for Pool Pic and Bed Area; replaced the copied caption on Bed Area with "A calm treatment room with comfortable massage beds."
+
+Lightbox: all 7 images open large with previous/next, zoom and scroll.
+
+
