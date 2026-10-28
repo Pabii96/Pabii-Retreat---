@@ -185,16 +185,16 @@ Future improvements to the website may include:
 breakpoints at 900px and 650px.
 
 ## 2. Page by page
-## index.html – Home
+index.html – Home
 * **[21 October 2026]:** Search bar added to header; scripts linked.
 * **[21 October 2026]:** Hero image, service cards, "why choose us" blocks and buttons now styled and centred (CSS only).
 * **[21 October 2026]:** Service images open in the lightbox.
 
-## about.html – About Us
+about.html – About Us
 * **[21 October 2026]:** Search bar added to header; scripts linked.
 * **[21 October 2026]:** Facial treatment image opens in the lightbox; "What We Offer" cards laid out in a grid
 
-## services.html – Services
+services.html – Services
 * **[21 October 2026]:** Search bar added to header; scripts linked.
 * **[21 October 2026]:** Fixed 6 broken links: enquires.html → enquiry.html (4 "Enquire Now" buttons plus 2 further
 links).
@@ -217,18 +217,18 @@ navigation, so the search bar and mobile menu now work on this page.
 calm treatment room with comfortable massage beds."
 * **[22 October 2026]:** Lightbox: all 7 images open large with previous/next, zoom and scroll.
 
-## enquiry.html – Enquiry
+enquiry.html – Enquiry
 * **[22 October 2026]:** Search bar added; scripts linked.
 * **[22 October 2026]:** Form marked data-form="enquiry". JavaScript validates required fields, email, South African phone
 format, past dates and guest numbers, showing inline error messages.
 * **[22 October 2026]:** On a valid submit the page shows an estimated cost and availability message without reloading
 (including a Sunday-closed notice)
 
-## contact.html – Contact Us
-* **[22 October 2026]:**Search bar added; scripts linked.
-* **[22 October 2026]:**Form marked data-form="contact"; same validation as above. On a valid submit the message is compiled into an email to the Retreat's address.
-* **[22 October 2026]:**Fixed broken HTML comment (<-- … -->).
-* **[22 October 2026]:**Map section now shows two locations: the Retreat (existing embed) and the nearby Maponya Mall, each with an accessible title
+contact.html – Contact Us
+* **[22 October 2026]:** Search bar added; scripts linked.
+* **[22 October 2026]:** Form marked data-form="contact"; same validation as above. On a valid submit the message is compiled into an email to the Retreat's address.
+* **[22 October 2026]:** Fixed broken HTML comment (<-- … -->).
+* **[22 October 2026]:** Map section now shows two locations: the Retreat (existing embed) and the nearby Maponya Mall, each with an accessible title
 ---
 
 Changelog - Pabii's Retreat Project
