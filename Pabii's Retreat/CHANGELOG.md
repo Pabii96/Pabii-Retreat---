@@ -112,4 +112,14 @@ Added missing headings for Pool Pic and Bed Area; replaced the copied caption on
 
 Lightbox: all 7 images open large with previous/next, zoom and scroll.
 
+enquiry.html - Enquiry
+
+Search bar added; scripts linked.
+
+Form marked data-form="enquiry". JavaScript validates required fields, email, South Africa phone format, past dates and guest numbers, showing inline error messages.
+
+On a valid submit the page shows an estimated cost and availability message without reloading (including a Sunday-cloased notice).
+
+
+
 
