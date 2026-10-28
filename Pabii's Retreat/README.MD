@@ -207,6 +207,23 @@ navigation, so the search bar and mobile menu now work on this page.
 **[22 October 2026]:** **Fixed broken links: enquires.html → enquiry.html (5 links)
 **[22 October 2026]:** **Scripts linked.
 
+## gallery.html – Gallery
+**[22 October 2026]:** **Search bar added; scripts linked.
+**[22 October 2026]:** **Removed stray <link rel="stylesheet"> placed inside the logo container.
+**[22 October 2026]:** **Added the missing closing </div> for gallery-grid.
+**[22 October 2026]:** **Removed duplicated headings and typos ("Full Body Message", "Foot Message", "Facials", "Pool Lunch", "Pool Pic", "Bed Area" appeared twice or above the image).
+**[22 October 2026]:** **Corrected alt text: full body massage image (was "Facial treatment"); "Pabi's" → "Pabii's" on Pool Pic and Bed Area.
+**[22 October 2026]:** **Added missing headings for Pool Pic and Bed Area; replaced the copied caption on Bed Area with "A
+calm treatment room with comfortable massage beds."
+**[22 October 2026]:** **Lightbox: all 7 images open large with previous/next, zoom and scroll.
+
+## enquiry.html – Enquiry
+**[22 October 2026]:** **Search bar added; scripts linked.
+**[22 October 2026]:** **Form marked data-form="enquiry". JavaScript validates required fields, email, South African phone
+format, past dates and guest numbers, showing inline error messages.
+**[22 October 2026]:** **On a valid submit the page shows an estimated cost and availability message without reloading
+(including a Sunday-closed notice)
+
 ---
 
 Changelog - Pabii's Retreat Project
