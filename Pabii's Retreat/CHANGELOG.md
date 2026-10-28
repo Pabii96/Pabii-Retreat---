@@ -131,4 +131,12 @@ Fixed broken HTML comment (<-- … -->).
 Map section now shows two locations: the Retreat (existing embed) and the nearby Maponya Mall,
 each with an accessible title
 
+reviews.html - Reviews
+
+Search bar added. scripts linked.
+
+Fixed broken link enquires.html → enquiry.html.
+
+Review form now validated by the shared script.
+
 
