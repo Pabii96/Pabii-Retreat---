@@ -1,4 +1,4 @@
-part 1&2
+Part 1&2
 Changelog - Pabii's Retreat 
 
 10 July 2026 - Project Initialization & Scope 
@@ -46,3 +46,20 @@ Tested cross-browser to Google Chrome, and Microsoft Edge.
 
 Defined a responsive breakpoint for different screen size. 
 
+Part 3 Changelog Pabii's Retreat
+
+1.Changes applied to every page
+Site-wide search bar added to the header (all 8 pages) with a screen-reader label and live results
+area.
+Scripts linked before 
+</body>: 
+js/search-index.js and 
+js/main.js (search, lightbox, form
+validation).
+Centred page margin via 
+css/style.css: page column up to 1280px, centred with equal side
+margins; content centred at 1100px.
+Lightbox applied automatically to every image inside 
+<main> (the logo in the header is excluded).
+Layout fixes: horizontal navigation bar on desktop, card/grid styles, buttons, form styling, responsive
+breakpoints at 900px and 650px.
