@@ -176,7 +176,7 @@ Future improvements to the website may include:
 * **[16 September 2026]:** **Interactive States** — Added hover and active focus states to buttons, navigation elements, and form inputs.
 
 ### Part 3 JavaScript Enhancement
-###1. Changes applied to every page
+## 1. Changes applied to every page
 * **[21 October 2026]:** **Site-wide search bar added to the header (all 8 pages) with a screen-reader label and live results area.
 * **[21 October 2026]:** **Scripts linked before </body>: js/search-index.js and js/main.js (search, lightbox, form validation).
 * **[21 October2026]:** **Centred page margin via css/style.css: page column up to 1280px, centred with equal side margins; content centred at 1100px.
@@ -184,7 +184,7 @@ Future improvements to the website may include:
 * **[21 October 2026]:** **Layout fixes: horizontal navigation bar on desktop, card/grid styles, buttons, form styling, responsive
 breakpoints at 900px and 650px.
 
-###2. Page by page
+## 2. Page by page
 ### index.html – Home
 * **[21 October 2026]:** **Search bar added to header; scripts linked.
 * **[21 October 2026]:** **Hero image, service cards, "why choose us" blocks and buttons now styled and centred (CSS only).
@@ -194,7 +194,18 @@ breakpoints at 900px and 650px.
 * **[21 October 2026]:** **Search bar added to header; scripts linked.
 * **[21 October 2026]:** **Facial treatment image opens in the lightbox; "What We Offer" cards laid out in a grid
 
+## services.html – Services
+ **[21 October 2026]:** **Search bar added to header; scripts linked.
+ **[21 October 2026]:** **Fixed 6 broken links: enquires.html → enquiry.html (4 "Enquire Now" buttons plus 2 further
+links).
+ **[21 October 2026]:** **Corrected alt text on the facial image (was "Hot stone therapy").
+ **[21 October 2026]:** **All four service images open in the lightbox; cards laid out in a two-column grid.
 
+## packages.html Packages
+**[22 October 2026]:** **Replaced the duplicated, nested <header> and unstyled link list with the standard site header and
+navigation, so the search bar and mobile menu now work on this page. 
+**[22 October 2026]:** **Fixed broken links: enquires.html → enquiry.html (5 links)
+**[22 October 2026]:** **Scripts linked.
 
 ---
 
