@@ -202,10 +202,10 @@ links).
 * **[21 October 2026]:** All four service images open in the lightbox; cards laid out in a two-column grid.
 
 packages.html Packages
-**[22 October 2026]:** Replaced the duplicated, nested <header> and unstyled link list with the standard site header and
+* **[22 October 2026]:** Replaced the duplicated, nested <header> and unstyled link list with the standard site header and
 navigation, so the search bar and mobile menu now work on this page. 
-**[22 October 2026]:** Fixed broken links: enquires.html → enquiry.html (5 links)
-**[22 October 2026]:** Scripts linked.
+* **[22 October 2026]:** Fixed broken links: enquires.html → enquiry.html (5 links)
+* **[22 October 2026]:** Scripts linked.
 
 gallery.html – Gallery
 * **[22 October 2026]:** Search bar added; scripts linked.
