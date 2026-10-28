@@ -175,6 +175,15 @@ Future improvements to the website may include:
 * **[16 September 2026]:** **Media Queries** — Added responsive breakpoints converting desktop grid layouts into single-column flows for tablet and mobile devices.
 * **[16 September 2026]:** **Interactive States** — Added hover and active focus states to buttons, navigation elements, and form inputs.
 
+### Part 3 JavaScript Enhancement
+21 0ctober 2026 - Changes applied to every page
+-Site-wide search bar added to the header (all 8 pages) with a screen-reader label and live results area.
+-Scripts linked before </body>: js/search-index.js and js/main.js (search, lightbox, form validation).
+-Centred page margin via css/style.css: page column up to 1280px, centred with equal side margins; content centred at 1100px.
+-Lightbox applied automatically to every image inside <main> (the logo in the header is excluded).
+-Layout fixes: horizontal navigation bar on desktop, card/grid styles, buttons, form styling, responsive
+breakpoints at 900px and 650px.
+
 ---
 
 Changelog - Pabii's Retreat Project
