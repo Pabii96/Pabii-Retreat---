@@ -37,6 +37,16 @@
                     <li><a href="reviews.html">Reviews</a></li>
                 </ul>
             </nav>
+
+            <!-- SITE-WIDE SEARCH -->
+            <div class="site-search" role="search">
+                <form action="#" aria-label="Search the website">
+                    <label for="site-search-input" class="sr-only">Search Pabii's Retreat</label>
+                    <input type="search" id="site-search-input" placeholder="Search the site…" autocomplete="off" aria-controls="site-search-results">
+                    <button type="submit" aria-label="Search">Search</button>
+                </form>
+                <div class="search-results" id="site-search-results" aria-live="polite" hidden></div>
+            </div>
         </div>
     </header>
 
@@ -281,6 +291,11 @@
         </p>
 
     </footer>
+
+
+    <!-- Search index + site scripts (search, lightbox, form validation) -->
+    <script src="js/search-index.js"></script>
+    <script src="js/main.js"></script>
 
 </body>
 </html>
