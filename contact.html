@@ -44,6 +44,16 @@
                     <li><a href="reviews.html">Reviews</a></li>
                 </ul>
             </nav>
+
+            <!-- SITE-WIDE SEARCH -->
+            <div class="site-search" role="search">
+                <form action="#" aria-label="Search the website">
+                    <label for="site-search-input" class="sr-only">Search Pabii's Retreat</label>
+                    <input type="search" id="site-search-input" placeholder="Search the site…" autocomplete="off" aria-controls="site-search-results">
+                    <button type="submit" aria-label="Search">Search</button>
+                </form>
+                <div class="search-results" id="site-search-results" aria-live="polite" hidden></div>
+            </div>
         </div>
     </header>
 
@@ -139,7 +149,7 @@
                     <h2>Send Us a Message</h2>
 
 
-                    <form action="#" method="post">
+                    <form action="#" method="post" data-form="contact">
 
 
                         <!-- NAME -->
@@ -270,9 +280,18 @@
         </section>
 
 
-                                <-- This is the location of the Retreat -->
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.866757912198!2d27.893125474610905!3d-26.26598747703855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e95a70c239a90e1%3A0x52a8320b9ecf8246!2sMsilinga%20St%2C%20Pimville%2C%201809!5e0!3m2!1sen!2sza!4v1786539828768!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                                <section class="map-block" aria-label="Map locations">
+            <div>
+                <h3>Pabii's Retreat</h3>
+                <!-- Location of the Retreat -->
+                <iframe title="Map of Pabii's Retreat, Pimville Zone 9" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3577.866757912198!2d27.893125474610905!3d-26.26598747703855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e95a70c239a90e1%3A0x52a8320b9ecf8246!2sMsilinga%20St%2C%20Pimville%2C%201809!5e0!3m2!1sen!2sza!4v1786539828768!5m2!1sen!2sza" allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+            </div>
+            <div>
+                <h3>Nearby landmark: Maponya Mall</h3>
+                <!-- Second location to help visitors find the Retreat -->
+                <iframe title="Map of Maponya Mall, Soweto" src="https://maps.google.com/maps?q=Maponya+Mall+Soweto&amp;output=embed" allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+            </div>
+        </section>
 
 
     </main>
@@ -307,6 +326,11 @@
 
     </footer>
 
+
+
+    <!-- Search index + site scripts (search, lightbox, form validation) -->
+    <script src="js/search-index.js"></script>
+    <script src="js/main.js"></script>
 
 </body>
 
