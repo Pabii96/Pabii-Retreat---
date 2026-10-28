@@ -201,13 +201,13 @@ links).
 * **[21 October 2026]:** Corrected alt text on the facial image (was "Hot stone therapy").
 * **[21 October 2026]:** All four service images open in the lightbox; cards laid out in a two-column grid.
 
-## packages.html Packages
+packages.html Packages
 **[22 October 2026]:** Replaced the duplicated, nested <header> and unstyled link list with the standard site header and
 navigation, so the search bar and mobile menu now work on this page. 
 **[22 October 2026]:** Fixed broken links: enquires.html → enquiry.html (5 links)
 **[22 October 2026]:** Scripts linked.
 
-## gallery.html – Gallery
+gallery.html – Gallery
 * **[22 October 2026]:** Search bar added; scripts linked.
 * **[22 October 2026]:** Removed stray <link rel="stylesheet"> placed inside the logo container.
 * **[22 October 2026]:** Added the missing closing </div> for gallery-grid.
@@ -229,6 +229,12 @@ contact.html – Contact Us
 * **[22 October 2026]:** Form marked data-form="contact"; same validation as above. On a valid submit the message is compiled into an email to the Retreat's address.
 * **[22 October 2026]:** Fixed broken HTML comment (<-- … -->).
 * **[22 October 2026]:** Map section now shows two locations: the Retreat (existing embed) and the nearby Maponya Mall, each with an accessible title
+
+reviews.html – Reviews
+* **[22 October 2026]:** Search bar added; scripts linked.
+* **[22 October 2026]:** Fixed broken link enquires.html → enquiry.html.
+* **[22 October 2026]:** Review form now validated by the shared script.
+
 ---
 
 Changelog - Pabii's Retreat Project
