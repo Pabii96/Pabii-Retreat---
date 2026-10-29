@@ -307,27 +307,15 @@ Defined a responsive breakpoint for different screen size.
 * Creative Commons, 2026. *Attribution*. [online] Available at: <https://creativecommons.org/licenses/> [Accessed 02 August 2026].
 * Sharpsheets, 2026. *SWOT Analysis for a Massage Therapy Business*. [online] Available at: <https://sharpsheets.io/blog/swot-analysis-massage-therapy-business/> [Accessed 25 July 2026].
 * World Health Organization (WHO), 2026. *Self-care for Health and Well-being*. [online] Available at: <https://www.who.int/> [Accessed 02 August 2026].
-Here is your corrected and formatted reference list according to **The IIE Harvard-Anglia referencing style guide**.
 
-### Key Corrections Made:
+* Mozilla,2026 . CSS media queries. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries> [Accessed 21 October 2026].
 
-* **Missing Date:** Replaced `(n.d.)` with `[s.a.]` (*sine anno* / without year) as specified in the IIE guide for undated sources.
-* **URL Formatting:** Enclosed all website URLs in angle brackets (`< >`) as required by IIE website referencing standards.
-* **Capitalisation:** Adjusted webpage titles to sentence case.
-* **Alphabetical Ordering:** Sorted the entries alphabetically by author/organisation and subsequently by title.
+* Mozilla,2026. Constraint validation. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation> [Accessed 22 October 2026].
 
----
+* Mozilla, 2026. JavaScript guide. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide> [Accessed 21 October 2026].
 
-### **References**
-
-* Mozilla,2026 . CSS media queries. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries>(https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries) [Accessed 21 October 2026].
-
-* Mozilla,2026. Constraint validation. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation>(https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation) [Accessed 22 October 2026].
-
-* Mozilla, 2026. JavaScript guide. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide>(https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) [Accessed 21 October 2026].
-
-* Mozilla, 2026. Responsive web design. [online] Available at: <https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design>(https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design) [Accessed 21 October 2026].
+* Mozilla, 2026. Responsive web design. [online] Available at: <https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design> [Accessed 21 October 2026].
 
 * World Wide Web Consortium (W3C), 2026. Images tutorial. [online] Available at: <https://www.w3.org/WAI/tutorials/images/>(https://www.w3.org/WAI/tutorials/images/) [Accessed 22 October 2026].
 
-* World Wide Web Consortium (W3C), 2026. Page structure tutorial. [online] Available at: <https://www.w3.org/WAI/tutorials/page-structure/>(https://www.w3.org/WAI/tutorials/page-structure/) [Accessed 22 October 2026].
+* World Wide Web Consortium (W3C), 2026. Page structure tutorial. [online] Available at: <https://www.w3.org/WAI/tutorials/page-structure/> [Accessed 22 October 2026].
