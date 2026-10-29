@@ -175,6 +175,13 @@ Future improvements to the website may include:
 * **[16 September 2026]:** **Media Queries** — Added responsive breakpoints converting desktop grid layouts into single-column flows for tablet and mobile devices.
 * **[16 September 2026]:** **Interactive States** — Added hover and active focus states to buttons, navigation elements, and form inputs.
 
+### Part 3 JavaScript Enhancement
+* **[21 October 2026]:** Site-wide search bar added to the header (all 8 pages) with a screen-reader label and live results area.
+* **[21 October 2026]:** Scripts linked before </body>: js/search-index.js and js/main.js (search, lightbox, form validation).
+* **[21 October2026]:** Centred page margin via css/style.css: page column up to 1280px, centred with equal side margins; content centred at 1100px.
+* **[21 October 2026]:** lightbox applied automatically to every image inside <main> (the logo in the header is excluded).
+* **[21 October 2026]:** Layout fixes: horizontal navigation bar on desktop, card/grid styles, buttons, form styling, responsive
+breakpoints at 900px and 650px.
 
 ---
 
