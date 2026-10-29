@@ -182,6 +182,7 @@ Future improvements to the website may include:
 * **[21 October 2026]:** lightbox applied automatically to every image inside <main> (the logo in the header is excluded).
 * **[21 October 2026]:** Layout fixes: horizontal navigation bar on desktop, card/grid styles, buttons, form styling, responsive
 breakpoints at 900px and 650px.
+* **[25 October 2026]:** Map added using Leaflet: Created or added a map using Leaflet library JS. Map runs on website link or live server on VS code. Renders a blocked when run locally.
 
 ---
 
