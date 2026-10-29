@@ -280,8 +280,6 @@ reviews.html – Reviews
 * **[22 October 2026]:** Fixed broken link enquires.html → enquiry.html.
 * **[22 October 2026]:** Review form now validated by the shared script.
 
-
-
 ---
 
 ## References
