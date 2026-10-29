@@ -175,91 +175,110 @@ Future improvements to the website may include:
 * **[16 September 2026]:** **Media Queries** — Added responsive breakpoints converting desktop grid layouts into single-column flows for tablet and mobile devices.
 * **[16 September 2026]:** **Interactive States** — Added hover and active focus states to buttons, navigation elements, and form inputs.
 
+
 ---
 
-Changelog - Pabii's Retreat Project
+### Changelog - Pabii's Retreat Project
 
-10 July 2026 - Project Initialization and Proposal
-- Established Pabii’s Retreat as a new wellness business launched in July 2026.
-- Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing.
+## Project Initialization and Proposal
+* **[10 July 2026]:** Established Pabii’s Retreat as a new wellness business launched in July 2026.
+* **[10 July 2026]:**  Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing.
 
-02 August 2026 - New Additions and Feature Updates 
+### New Additions and Feature Updates 
+* **[02 August 2026]:** Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatment.
+* **[02 August 2026]:** Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients.
+* **[02 August 2026]:** Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancement, and expanded package.
 
--Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatment.
-- Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients.
--Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancement, and expanded package.
-
-2.
-part 1&2
+### Part 1&2
 Changelog - Pabii's Retreat 
 
-10 July 2026 - Project Initialization & Scope 
+* **[10 July 2026]:**- Project Initialization & Scope 
+* **[10 July 2026]:** Established Pabii’s Retreat as a new wellness business launched in July 2026. 
+* **[10 July 2026]:** Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing 
 
-Established Pabii’s Retreat as a new wellness business launched in July 2026. 
+* **[25 July 2026]:**  Research & Sitemap Planning 
+* **[25 July 2026]:** Completed initial sitemap structure and content sourcing for core HTML pages. 
+* **[25 July 2026]:** Gathered public domain assets and drafted treatment package descriptions. 
 
-Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing 
+* **[02 August 2026]:** Part 1 Deliverables & Feature Additions
+* **[02 August 2026]:** Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatments. 
+* **[02 August 2026]:** Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients. 
+* **[02 August 2026]:** Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancements, and expanded package. 
 
-25 July 2026 - Research & Sitemap Planning 
+* **[09 September 2026]:**  Feedback Corrections & HTML Refinement 
+* **[09 September 2026]:** Standardized file paths and corrected relative links across site navigation. 
+* **[09 September 2026]:** Improved layout markup to semantic HTML5 tags (header, nav, main, section, footer). 
+* **[09 September 2026]:** Enhanced form inputs for both the enquiry form and contact page. 
 
-Completed initial sitemap structure and content sourcing for core HTML pages. 
+* **[14 September 2026]:**  Part 2 CSS Styling & Layout Implementation 
+* **[14 September 2026]:** Created external stylesheet css/style.css and connected all pages. 
+* **[14 September 2026]:** Added CSS reset rules, typography scales (rem), and primary/accent colour variables. 
+* **[14 September 2026]:** Developed multi-column card layouts using CSS Grid for service/package sections. 
 
-Gathered public domain assets and drafted treatment package descriptions. 
+* **[16 September 2026]:** Responsive Breakpoints & Final Verification 
+* **[16 September 2026]:** Added custom @media queries targeting different screen sizes. 
+* **[16 September 2026]:** Tested cross-browser to Google Chrome, and Microsoft Edge. 
+* **[16 September 2026]:** Defined a responsive breakpoint for different screen size. 
 
-02 August 2026 - Part 1 Deliverables & Feature Additions
+### Part 3 JavaScript Enhancement
+## 1. Changes applied to every page
+* **[21 October 2026]:** Site-wide search bar added to the header (all 8 pages) with a screen-reader label and live results area.
+* **[21 October 2026]:** Scripts linked before </body>: js/search-index.js and js/main.js (search, lightbox, form validation).
+* **[21 October2026]:** Centred page margin via css/style.css: page column up to 1280px, centred with equal side margins; content centred at 1100px.
+* **[21 October 2026]:** lightbox applied automatically to every image inside <main> (the logo in the header is excluded).
+* **[21 October 2026]:** Layout fixes: horizontal navigation bar on desktop, card/grid styles, buttons, form styling, responsive
+breakpoints at 900px and 650px.
 
+## 2. Page by page
+index.html – Home
+* **[21 October 2026]:** Search bar added to header; scripts linked.
+* **[21 October 2026]:** Hero image, service cards, "why choose us" blocks and buttons now styled and centred (CSS only).
+* **[21 October 2026]:** Service images open in the lightbox.
 
-Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatments. 
+about.html – About Us
+* **[21 October 2026]:** Search bar added to header; scripts linked.
+* **[21 October 2026]:** Facial treatment image opens in the lightbox; "What We Offer" cards laid out in a grid
 
-Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients. 
+services.html – Services
+* **[21 October 2026]:** Search bar added to header; scripts linked.
+* **[21 October 2026]:** Fixed 6 broken links: enquires.html → enquiry.html (4 "Enquire Now" buttons plus 2 further
+links).
+* **[21 October 2026]:** Corrected alt text on the facial image (was "Hot stone therapy").
+* **[21 October 2026]:** All four service images open in the lightbox; cards laid out in a two-column grid.
 
-Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancements, and expanded package. 
+packages.html Packages
+* **[22 October 2026]:** Replaced the duplicated, nested <header> and unstyled link list with the standard site header and
+navigation, so the search bar and mobile menu now work on this page. 
+* **[22 October 2026]:** Fixed broken links: enquires.html → enquiry.html (5 links)
+* **[22 October 2026]:** Scripts linked.
 
-09 September 2026 - Feedback Corrections & HTML Refinement 
+gallery.html – Gallery
+* **[22 October 2026]:** Search bar added; scripts linked.
+* **[22 October 2026]:** Removed stray <link rel="stylesheet"> placed inside the logo container.
+* **[22 October 2026]:** Added the missing closing </div> for gallery-grid.
+* **[22 October 2026]:** Removed duplicated headings and typos ("Full Body Message", "Foot Message", "Facials", "Pool Lunch", "Pool Pic", "Bed Area" appeared twice or above the image).
+* **[22 October 2026]:** Corrected alt text: full body massage image (was "Facial treatment"); "Pabi's" → "Pabii's" on Pool Pic and Bed Area.
+* **[22 October 2026]:** Added missing headings for Pool Pic and Bed Area; replaced the copied caption on Bed Area with "A
+calm treatment room with comfortable massage beds."
+* **[22 October 2026]:** Lightbox: all 7 images open large with previous/next, zoom and scroll.
 
-Standardised file paths and corrected relative links across site navigation. 
+enquiry.html – Enquiry
+* **[22 October 2026]:** Search bar added; scripts linked.
+* **[22 October 2026]:** Form marked data-form="enquiry". JavaScript validates required fields, email, South African phone
+format, past dates and guest numbers, showing inline error messages.
+* **[22 October 2026]:** On a valid submit the page shows an estimated cost and availability message without reloading
+(including a Sunday-closed notice)
 
-Improved layout markup to semantic HTML5 tags (<header>, <nav>, <main>, <section>, <footer>). 
+contact.html – Contact Us
+* **[22 October 2026]:** Search bar added; scripts linked.
+* **[22 October 2026]:** Form marked data-form="contact"; same validation as above. On a valid submit the message is compiled into an email to the Retreat's address.
+* **[22 October 2026]:** Fixed broken HTML comment (<-- … -->).
+* **[22 October 2026]:** Map section now shows two locations: the Retreat (existing embed) and the nearby Maponya Mall, each with an accessible title
 
-Enhanced form inputs for both the enquiry form and contact page. 
-
-14 September 2026 - Part 2 CSS Styling & Layout Implementation 
-
-Created external stylesheet css/style.css and connected all pages. 
-
-Added CSS reset rules, typography scales (rem), and primary/accent colour variables. 
-
-Developed multi-column card layouts using CSS Grid for service/package sections. 
-
-16 September 2026 - Responsive Breakpoints & Final Verification 
-
-Added custom @media queries targeting different screen sizes. 
-
-Tested cross-browser to Google Chrome, and Microsoft Edge. 
-
-Defined a responsive breakpoint for different screen size. 
-
-
-
-
-## 28 October 2026 - Search, Lightbox, Centred Layout and Rubric Fixes (Part 3)
-
-**Requested changes**
-- **Site-wide search bar:** Added a search field to the header of all 8 pages (`index`, `about`, `services`, `packages`, `gallery`, `enquiry`, `contact`, `reviews`). It searches the content of every page, shows ranked results with the page name, heading and a highlighted snippet, supports keyboard navigation (arrow keys, Enter, Escape) and, on the page that is opened, highlights the searched words and scrolls to the first match. Files: `js/main.js`, `js/search-index.js` (generated), `tools/build-search-index.js`, `css/style.css`. Re-run `node tools/build-search-index.js` after editing page content.
-- **Image lightbox:** Every content image now opens in a full-screen lightbox. It opens as large as the screen allows, has Previous/Next buttons (also arrow keys and swipe on touch screens), a caption taken from the alt text, an image counter, a zoom button (click the image or press + / -) that enlarges the picture beyond the screen so it can be **scrolled** in both directions, and closes with the X button, Escape or a click outside the image. Focus returns to the image on close.
-- **Centred page margin:** The site now sits in a centred column (`max-width: 1280px; margin: 0 auto`) with equal margins and a soft shadow on wide screens; section content is centred inside it (`max-width: 1100px`). Previously everything was stretched to the left edge.
-
-**Fixes made so the site meets the rubric**
-- Created `js/` folder at the root (rubric 4.2: `css`, `js`, `images`) and linked the script on every page; the earlier `main.js` was stored in a nested folder and never linked.
-- Added CSS for classes already used in the HTML but missing from the stylesheet (`.services-grid`, `.service-container`, `.cards`, `.contact-container`, `.enquiry-container`, `.button`, `.booking-section`, form fields), so cards, forms and buttons are laid out properly. Navigation now displays as a horizontal bar on desktop (was a vertical list).
-- Responsive additions at 900px and 650px: multi-column to single column, stacked hero, mobile menu and search bar, `prefers-reduced-motion` support.
-- Fixed broken links: `enquires.html` changed to `enquiry.html` on the Services page.
-- Gallery page: closed the unclosed `gallery-grid` div, removed duplicated headings ("Full Body Message", "Foot Message" typos), corrected wrong alt text (full body massage image was labelled "Facial treatment"), fixed "Pabi's" spelling, replaced a copied caption on the Bed Area image, and added missing headings for Pool Pic and Bed Area.
-- Services page: corrected duplicated alt text on the facial image.
-- Removed a stray `<link>` tag inside the logo container on the Gallery page; fixed a broken HTML comment (`<-- ... -->`) on the Contact page.
-- Contact page: the map section now shows two locations (the Retreat and the nearby Maponya Mall landmark) with accessible titles (rubric: more than one location).
-- Forms (Part 3 section 4): client-side JavaScript validation with inline error messages (required fields, email format, South African phone format, no past dates, number ranges). The **enquiry** form gives an estimated cost and availability response without reloading the page; the **contact** form compiles the validated message into an email addressed to the Retreat. Forms use `novalidate` so JavaScript messages show consistently.
-- SEO (Part 3 section 3): added `robots.txt` and `sitemap.xml`; existing unique titles and meta descriptions, heading hierarchy and alt text kept and corrected.
-- Added screen-reader-only label for the search field, `aria-live` results and visible focus styles.
+reviews.html – Reviews
+* **[22 October 2026]:** Search bar added; scripts linked.
+* **[22 October 2026]:** Fixed broken link enquires.html → enquiry.html.
+* **[22 October 2026]:** Review form now validated by the shared script.
 
 ---
 
@@ -268,4 +287,10 @@ Defined a responsive breakpoint for different screen size.
 * Creative Commons, 2026. *Sharing Openly, Sharing Globally*. [online] Available at: <https://creativecommons.org/> [Accessed 02 August 2026].
 * Creative Commons, 2026. *Attribution*. [online] Available at: <https://creativecommons.org/licenses/> [Accessed 02 August 2026].
 * Sharpsheets, 2026. *SWOT Analysis for a Massage Therapy Business*. [online] Available at: <https://sharpsheets.io/blog/swot-analysis-massage-therapy-business/> [Accessed 25 July 2026].
+* Mozilla,2026 . CSS media queries. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries> [Accessed 21 October 2026].
+* Mozilla,2026. Constraint validation. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation> [Accessed 22 October 2026].
+* Mozilla, 2026. JavaScript guide. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide> [Accessed 21 October 2026].
+* Mozilla, 2026. Responsive web design. [online] Available at: <https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design> [Accessed 21 October 2026].
 * World Health Organization (WHO), 2026. *Self-care for Health and Well-being*. [online] Available at: <https://www.who.int/> [Accessed 02 August 2026].
+* World Wide Web Consortium (W3C), 2026. Images tutorial. [online] Available at: <https://www.w3.org/WAI/tutorials/images/>(https://www.w3.org/WAI/tutorials/images/) [Accessed 22 October 2026].
+* World Wide Web Consortium (W3C), 2026. Page structure tutorial. [online] Available at: <https://www.w3.org/WAI/tutorials/page-structure/> [Accessed 22 October 2026].

@@ -218,7 +218,7 @@ Added a roadmap for future improvements that will be dealing with plans for book
 
 Standardised file paths and corrected relative links across site navigation. 
 
-Improved layout markup to semantic HTML5 tags (<header>, <nav>, <main>, <section>, <footer>). 
+Improved layout markup to semantic HTML5 tags (header, nav, main, section, footer). 
 
 Enhanced form inputs for both the enquiry form and contact page. 
 
