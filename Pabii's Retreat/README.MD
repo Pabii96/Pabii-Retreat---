@@ -207,7 +207,7 @@ Changelog - Pabii's Retreat
 
 * **[09 September 2026]:**  Feedback Corrections & HTML Refinement 
 * **[09 September 2026]:** Standardized file paths and corrected relative links across site navigation. 
-* **[09 September 2026]:** Improved layout markup to semantic HTML5 tags (<header>, <nav>, <main>, <section>, <footer>). 
+* **[09 September 2026]:** Improved layout markup to semantic HTML5 tags (header, nav, main, section, footer). 
 * **[09 September 2026]:** Enhanced form inputs for both the enquiry form and contact page. 
 
 * **[14 September 2026]:**  Part 2 CSS Styling & Layout Implementation 
