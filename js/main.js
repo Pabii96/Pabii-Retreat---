@@ -253,3 +253,5 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 L.marker([-26.2659875,27.8957004]).addTo(map)
     .bindPopup('Msilinga St, Pimville, 2093<br>Pabii\'s Retreat Spa')
     .openPopup();
+
+
