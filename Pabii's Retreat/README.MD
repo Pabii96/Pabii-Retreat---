@@ -193,12 +193,12 @@ Future improvements to the website may include:
 Changelog - Pabii's Retreat 
 
 * **[10 July 2026]:**- Project Initialization & Scope 
-* **[10 July 2026]:**Established Pabii’s Retreat as a new wellness business launched in July 2026. 
-* **[10 July 2026]:**Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing 
+* **[10 July 2026]:** Established Pabii’s Retreat as a new wellness business launched in July 2026. 
+* **[10 July 2026]:** Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing 
 
 * **[25 July 2026]:**  Research & Sitemap Planning 
 * **[25 July 2026]:** Completed initial sitemap structure and content sourcing for core HTML pages. 
-* **[25 July 2026]:**Gathered public domain assets and drafted treatment package descriptions. 
+* **[25 July 2026]:** Gathered public domain assets and drafted treatment package descriptions. 
 
 * **[02 August 2026]:** Part 1 Deliverables & Feature Additions
 * **[02 August 2026]:** Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatments. 
