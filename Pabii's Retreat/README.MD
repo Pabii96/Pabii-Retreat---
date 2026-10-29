@@ -175,65 +175,6 @@ Future improvements to the website may include:
 * **[16 September 2026]:** **Media Queries** — Added responsive breakpoints converting desktop grid layouts into single-column flows for tablet and mobile devices.
 * **[16 September 2026]:** **Interactive States** — Added hover and active focus states to buttons, navigation elements, and form inputs.
 
-### Part 3 JavaScript Enhancement
-## 1. Changes applied to every page
-* **[21 October 2026]:** Site-wide search bar added to the header (all 8 pages) with a screen-reader label and live results area.
-* **[21 October 2026]:** Scripts linked before </body>: js/search-index.js and js/main.js (search, lightbox, form validation).
-* **[21 October2026]:** Centred page margin via css/style.css: page column up to 1280px, centred with equal side margins; content centred at 1100px.
-* **[21 October 2026]:** lightbox applied automatically to every image inside <main> (the logo in the header is excluded).
-* **[21 October 2026]:** Layout fixes: horizontal navigation bar on desktop, card/grid styles, buttons, form styling, responsive
-breakpoints at 900px and 650px.
-
-## 2. Page by page
-index.html – Home
-* **[21 October 2026]:** Search bar added to header; scripts linked.
-* **[21 October 2026]:** Hero image, service cards, "why choose us" blocks and buttons now styled and centred (CSS only).
-* **[21 October 2026]:** Service images open in the lightbox.
-
-about.html – About Us
-* **[21 October 2026]:** Search bar added to header; scripts linked.
-* **[21 October 2026]:** Facial treatment image opens in the lightbox; "What We Offer" cards laid out in a grid
-
-services.html – Services
-* **[21 October 2026]:** Search bar added to header; scripts linked.
-* **[21 October 2026]:** Fixed 6 broken links: enquires.html → enquiry.html (4 "Enquire Now" buttons plus 2 further
-links).
-* **[21 October 2026]:** Corrected alt text on the facial image (was "Hot stone therapy").
-* **[21 October 2026]:** All four service images open in the lightbox; cards laid out in a two-column grid.
-
-packages.html Packages
-* **[22 October 2026]:** Replaced the duplicated, nested <header> and unstyled link list with the standard site header and
-navigation, so the search bar and mobile menu now work on this page. 
-* **[22 October 2026]:** Fixed broken links: enquires.html → enquiry.html (5 links)
-* **[22 October 2026]:** Scripts linked.
-
-gallery.html – Gallery
-* **[22 October 2026]:** Search bar added; scripts linked.
-* **[22 October 2026]:** Removed stray <link rel="stylesheet"> placed inside the logo container.
-* **[22 October 2026]:** Added the missing closing </div> for gallery-grid.
-* **[22 October 2026]:** Removed duplicated headings and typos ("Full Body Message", "Foot Message", "Facials", "Pool Lunch", "Pool Pic", "Bed Area" appeared twice or above the image).
-* **[22 October 2026]:** Corrected alt text: full body massage image (was "Facial treatment"); "Pabi's" → "Pabii's" on Pool Pic and Bed Area.
-* **[22 October 2026]:** Added missing headings for Pool Pic and Bed Area; replaced the copied caption on Bed Area with "A
-calm treatment room with comfortable massage beds."
-* **[22 October 2026]:** Lightbox: all 7 images open large with previous/next, zoom and scroll.
-
-enquiry.html – Enquiry
-* **[22 October 2026]:** Search bar added; scripts linked.
-* **[22 October 2026]:** Form marked data-form="enquiry". JavaScript validates required fields, email, South African phone
-format, past dates and guest numbers, showing inline error messages.
-* **[22 October 2026]:** On a valid submit the page shows an estimated cost and availability message without reloading
-(including a Sunday-closed notice)
-
-contact.html – Contact Us
-* **[22 October 2026]:** Search bar added; scripts linked.
-* **[22 October 2026]:** Form marked data-form="contact"; same validation as above. On a valid submit the message is compiled into an email to the Retreat's address.
-* **[22 October 2026]:** Fixed broken HTML comment (<-- … -->).
-* **[22 October 2026]:** Map section now shows two locations: the Retreat (existing embed) and the nearby Maponya Mall, each with an accessible title
-
-reviews.html – Reviews
-* **[22 October 2026]:** Search bar added; scripts linked.
-* **[22 October 2026]:** Fixed broken link enquires.html → enquiry.html.
-* **[22 October 2026]:** Review form now validated by the shared script.
 
 ---
 
@@ -298,6 +239,67 @@ Tested cross-browser to Google Chrome, and Microsoft Edge.
 
 Defined a responsive breakpoint for different screen size. 
 
+### Part 3 JavaScript Enhancement
+## 1. Changes applied to every page
+* **[21 October 2026]:** Site-wide search bar added to the header (all 8 pages) with a screen-reader label and live results area.
+* **[21 October 2026]:** Scripts linked before </body>: js/search-index.js and js/main.js (search, lightbox, form validation).
+* **[21 October2026]:** Centred page margin via css/style.css: page column up to 1280px, centred with equal side margins; content centred at 1100px.
+* **[21 October 2026]:** lightbox applied automatically to every image inside <main> (the logo in the header is excluded).
+* **[21 October 2026]:** Layout fixes: horizontal navigation bar on desktop, card/grid styles, buttons, form styling, responsive
+breakpoints at 900px and 650px.
+
+## 2. Page by page
+index.html – Home
+* **[21 October 2026]:** Search bar added to header; scripts linked.
+* **[21 October 2026]:** Hero image, service cards, "why choose us" blocks and buttons now styled and centred (CSS only).
+* **[21 October 2026]:** Service images open in the lightbox.
+
+about.html – About Us
+* **[21 October 2026]:** Search bar added to header; scripts linked.
+* **[21 October 2026]:** Facial treatment image opens in the lightbox; "What We Offer" cards laid out in a grid
+
+services.html – Services
+* **[21 October 2026]:** Search bar added to header; scripts linked.
+* **[21 October 2026]:** Fixed 6 broken links: enquires.html → enquiry.html (4 "Enquire Now" buttons plus 2 further
+links).
+* **[21 October 2026]:** Corrected alt text on the facial image (was "Hot stone therapy").
+* **[21 October 2026]:** All four service images open in the lightbox; cards laid out in a two-column grid.
+
+packages.html Packages
+* **[22 October 2026]:** Replaced the duplicated, nested <header> and unstyled link list with the standard site header and
+navigation, so the search bar and mobile menu now work on this page. 
+* **[22 October 2026]:** Fixed broken links: enquires.html → enquiry.html (5 links)
+* **[22 October 2026]:** Scripts linked.
+
+gallery.html – Gallery
+* **[22 October 2026]:** Search bar added; scripts linked.
+* **[22 October 2026]:** Removed stray <link rel="stylesheet"> placed inside the logo container.
+* **[22 October 2026]:** Added the missing closing </div> for gallery-grid.
+* **[22 October 2026]:** Removed duplicated headings and typos ("Full Body Message", "Foot Message", "Facials", "Pool Lunch", "Pool Pic", "Bed Area" appeared twice or above the image).
+* **[22 October 2026]:** Corrected alt text: full body massage image (was "Facial treatment"); "Pabi's" → "Pabii's" on Pool Pic and Bed Area.
+* **[22 October 2026]:** Added missing headings for Pool Pic and Bed Area; replaced the copied caption on Bed Area with "A
+calm treatment room with comfortable massage beds."
+* **[22 October 2026]:** Lightbox: all 7 images open large with previous/next, zoom and scroll.
+
+enquiry.html – Enquiry
+* **[22 October 2026]:** Search bar added; scripts linked.
+* **[22 October 2026]:** Form marked data-form="enquiry". JavaScript validates required fields, email, South African phone
+format, past dates and guest numbers, showing inline error messages.
+* **[22 October 2026]:** On a valid submit the page shows an estimated cost and availability message without reloading
+(including a Sunday-closed notice)
+
+contact.html – Contact Us
+* **[22 October 2026]:** Search bar added; scripts linked.
+* **[22 October 2026]:** Form marked data-form="contact"; same validation as above. On a valid submit the message is compiled into an email to the Retreat's address.
+* **[22 October 2026]:** Fixed broken HTML comment (<-- … -->).
+* **[22 October 2026]:** Map section now shows two locations: the Retreat (existing embed) and the nearby Maponya Mall, each with an accessible title
+
+reviews.html – Reviews
+* **[22 October 2026]:** Search bar added; scripts linked.
+* **[22 October 2026]:** Fixed broken link enquires.html → enquiry.html.
+* **[22 October 2026]:** Review form now validated by the shared script.
+
+
 
 ---
 
@@ -306,16 +308,10 @@ Defined a responsive breakpoint for different screen size.
 * Creative Commons, 2026. *Sharing Openly, Sharing Globally*. [online] Available at: <https://creativecommons.org/> [Accessed 02 August 2026].
 * Creative Commons, 2026. *Attribution*. [online] Available at: <https://creativecommons.org/licenses/> [Accessed 02 August 2026].
 * Sharpsheets, 2026. *SWOT Analysis for a Massage Therapy Business*. [online] Available at: <https://sharpsheets.io/blog/swot-analysis-massage-therapy-business/> [Accessed 25 July 2026].
-* World Health Organization (WHO), 2026. *Self-care for Health and Well-being*. [online] Available at: <https://www.who.int/> [Accessed 02 August 2026].
-
 * Mozilla,2026 . CSS media queries. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Media_queries> [Accessed 21 October 2026].
-
 * Mozilla,2026. Constraint validation. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation> [Accessed 22 October 2026].
-
 * Mozilla, 2026. JavaScript guide. [online] Available at: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide> [Accessed 21 October 2026].
-
 * Mozilla, 2026. Responsive web design. [online] Available at: <https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design> [Accessed 21 October 2026].
-
+* World Health Organization (WHO), 2026. *Self-care for Health and Well-being*. [online] Available at: <https://www.who.int/> [Accessed 02 August 2026].
 * World Wide Web Consortium (W3C), 2026. Images tutorial. [online] Available at: <https://www.w3.org/WAI/tutorials/images/>(https://www.w3.org/WAI/tutorials/images/) [Accessed 22 October 2026].
-
 * World Wide Web Consortium (W3C), 2026. Page structure tutorial. [online] Available at: <https://www.w3.org/WAI/tutorials/page-structure/> [Accessed 22 October 2026].
