@@ -178,65 +178,47 @@ Future improvements to the website may include:
 
 ---
 
-Changelog - Pabii's Retreat Project
+### Changelog - Pabii's Retreat Project
 
-10 July 2026 - Project Initialization and Proposal
-- Established Pabii’s Retreat as a new wellness business launched in July 2026.
-- Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing.
+## Project Initialization and Proposal
+* **[10 July 2026]:** Established Pabii’s Retreat as a new wellness business launched in July 2026.
+* **[10 July 2026]:**  Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing.
 
-02 August 2026 - New Additions and Feature Updates 
+### New Additions and Feature Updates 
+* **[02 August 2026]:** Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatment.
+* **[02 August 2026]:** Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients.
+* **[02 August 2026]:** Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancement, and expanded package.
 
--Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatment.
-- Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients.
--Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancement, and expanded package.
-
-2.
-part 1&2
+### Part 1&2
 Changelog - Pabii's Retreat 
 
-* **10 July 2026 - Project Initialization & Scope 
+* **[10 July 2026]:**- Project Initialization & Scope 
+* **[10 July 2026]:**Established Pabii’s Retreat as a new wellness business launched in July 2026. 
+* **[10 July 2026]:**Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing 
 
-*Established Pabii’s Retreat as a new wellness business launched in July 2026. 
+* **[25 July 2026]:**  Research & Sitemap Planning 
+* **[25 July 2026]:** Completed initial sitemap structure and content sourcing for core HTML pages. 
+* **[25 July 2026]:**Gathered public domain assets and drafted treatment package descriptions. 
 
-*Create project documentation and defined the objectives of the organisation and stated the affordability therapeutic services, stress relief, and physical wellbeing 
+* **[02 August 2026]:** Part 1 Deliverables & Feature Additions
+* **[02 August 2026]:** Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatments. 
+* **[02 August 2026]:** Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients. 
+* **[02 August 2026]:** Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancements, and expanded package. 
 
-25 July 2026 - Research & Sitemap Planning 
+* **[09 September 2026]:**  Feedback Corrections & HTML Refinement 
+* **[09 September 2026]:** Standardized file paths and corrected relative links across site navigation. 
+* **[09 September 2026]:** Improved layout markup to semantic HTML5 tags (<header>, <nav>, <main>, <section>, <footer>). 
+* **[09 September 2026]:** Enhanced form inputs for both the enquiry form and contact page. 
 
-* Completed initial sitemap structure and content sourcing for core HTML pages. 
-
-* Gathered public domain assets and drafted treatment package descriptions. 
-
-02 August 2026 - Part 1 Deliverables & Feature Additions
-
-* Added dedicated area for customers feedback, testimonials, and highlighting reviews are increasing as family and friends try the treatments. 
-
-* Added a social media planning to describe the plans, engagement activities, shows their services and strategies to attract more clients. 
-
-* Added a roadmap for future improvements that will be dealing with plans for booking systems, secure payments options, mobile accessibility enhancements, and expanded package. 
-
-09 September 2026 - Feedback Corrections & HTML Refinement 
-
-* Standardized file paths and corrected relative links across site navigation. 
-
-* Improved layout markup to semantic HTML5 tags (<header>, <nav>, <main>, <section>, <footer>). 
-
-* Enhanced form inputs for both the enquiry form and contact page. 
-
-14 September 2026 - Part 2 CSS Styling & Layout Implementation 
-
-* Created external stylesheet css/style.css and connected all pages. 
-
-* Added CSS reset rules, typography scales (rem), and primary/accent colour variables. 
-
-* Developed multi-column card layouts using CSS Grid for service/package sections. 
+* **[14 September 2026]:**  Part 2 CSS Styling & Layout Implementation 
+* **[14 September 2026]:** Created external stylesheet css/style.css and connected all pages. 
+* **[14 September 2026]:** Added CSS reset rules, typography scales (rem), and primary/accent colour variables. 
+* **[14 September 2026]:** Developed multi-column card layouts using CSS Grid for service/package sections. 
 
 * **[16 September 2026]:** Responsive Breakpoints & Final Verification 
-
-* Added custom @media queries targeting different screen sizes. 
-
-* Tested cross-browser to Google Chrome, and Microsoft Edge. 
-
-* Defined a responsive breakpoint for different screen size. 
+* **[16 September 2026]:** Added custom @media queries targeting different screen sizes. 
+* **[16 September 2026]:** Tested cross-browser to Google Chrome, and Microsoft Edge. 
+* **[16 September 2026]:** Defined a responsive breakpoint for different screen size. 
 
 ### Part 3 JavaScript Enhancement
 ## 1. Changes applied to every page
