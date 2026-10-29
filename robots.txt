@@ -1,0 +1,5 @@
+# Allow all search engines to crawl the whole website
+User-agent: *
+Allow: /
+
+Sitemap: https://pabii96.github.io/Pabii-Retreat---/sitemap.xml
